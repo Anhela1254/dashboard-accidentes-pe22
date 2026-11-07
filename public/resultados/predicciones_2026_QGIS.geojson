@@ -1,0 +1,3355 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.18424647566049,
+          -11.597053395717085
+        ]
+      },
+      "properties": {
+        "km_inicio": 132,
+        "km_fin": 133,
+        "tramo_gis_ref": "T14",
+        "accidentes_2025": 24,
+        "media_historica_2022_2025": 19.25,
+        "prediccion_accidentes_2026": 19.25,
+        "nivel_prioridad_relativa": "ALTA (top 20%)",
+        "pendiente_dsm_proxy_pct": 5.954345703125,
+        "giro_cad_proxy_grados": 128.84876694511144,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 1,
+        "sector_gis_ref": "Paso de Ticlio – Morococha · subtramo",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.27043725949306,
+          -11.736126192683876
+        ]
+      },
+      "properties": {
+        "km_inicio": 98,
+        "km_fin": 99,
+        "tramo_gis_ref": "T07",
+        "accidentes_2025": 24,
+        "media_historica_2022_2025": 17.0,
+        "prediccion_accidentes_2026": 17.0,
+        "nivel_prioridad_relativa": "ALTA (top 20%)",
+        "pendiente_dsm_proxy_pct": 18.38671875,
+        "giro_cad_proxy_grados": 116.42924244673114,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 2,
+        "sector_gis_ref": "San Mateo – Cacray – Tamboraque · subtramo",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.20144039753698,
+          -11.610868073378292
+        ]
+      },
+      "properties": {
+        "km_inicio": 127,
+        "km_fin": 128,
+        "tramo_gis_ref": "T13",
+        "accidentes_2025": 17,
+        "media_historica_2022_2025": 15.75,
+        "prediccion_accidentes_2026": 15.75,
+        "nivel_prioridad_relativa": "ALTA (top 20%)",
+        "pendiente_dsm_proxy_pct": 5.489990234375,
+        "giro_cad_proxy_grados": 152.7399227046905,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 3,
+        "sector_gis_ref": "Lazos de Chinchan – Pre abra Anticona · subtramo",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.14082545223442,
+          -11.592866802014639
+        ]
+      },
+      "properties": {
+        "km_inicio": 138,
+        "km_fin": 139,
+        "tramo_gis_ref": "T15",
+        "accidentes_2025": 17,
+        "media_historica_2022_2025": 15.0,
+        "prediccion_accidentes_2026": 15.0,
+        "nivel_prioridad_relativa": "ALTA (top 20%)",
+        "pendiente_dsm_proxy_pct": 4.82568359375,
+        "giro_cad_proxy_grados": 116.31278855082319,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 4,
+        "sector_gis_ref": "Paso de Ticlio – Morococha · subtramo",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.56177032538555,
+          -11.918857312055783
+        ]
+      },
+      "properties": {
+        "km_inicio": 50,
+        "km_fin": 51,
+        "tramo_gis_ref": "T02",
+        "accidentes_2025": 17,
+        "media_historica_2022_2025": 14.75,
+        "prediccion_accidentes_2026": 14.75,
+        "nivel_prioridad_relativa": "ALTA (top 20%)",
+        "pendiente_dsm_proxy_pct": 2.69219970703125,
+        "giro_cad_proxy_grados": 137.74011919019424,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 5,
+        "sector_gis_ref": "Corcona – San Bartolomé",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1914672920299,
+          -11.592513770733929
+        ]
+      },
+      "properties": {
+        "km_inicio": 131,
+        "km_fin": 132,
+        "tramo_gis_ref": "T14",
+        "accidentes_2025": 9,
+        "media_historica_2022_2025": 14.75,
+        "prediccion_accidentes_2026": 14.75,
+        "nivel_prioridad_relativa": "ALTA (top 20%)",
+        "pendiente_dsm_proxy_pct": 3.936279296875,
+        "giro_cad_proxy_grados": 140.7953138537386,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 6,
+        "sector_gis_ref": "Paso de Ticlio – Morococha · subtramo",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2614572330845,
+          -11.734184160846734
+        ]
+      },
+      "properties": {
+        "km_inicio": 100,
+        "km_fin": 101,
+        "tramo_gis_ref": "T08",
+        "accidentes_2025": 19,
+        "media_historica_2022_2025": 14.0,
+        "prediccion_accidentes_2026": 14.0,
+        "nivel_prioridad_relativa": "ALTA (top 20%)",
+        "pendiente_dsm_proxy_pct": 4.601318359375,
+        "giro_cad_proxy_grados": 152.229730378689,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 7,
+        "sector_gis_ref": "Infiernillo – Río Blanco – Chicla · subtramo",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.20615597823371,
+          -11.610883756506537
+        ]
+      },
+      "properties": {
+        "km_inicio": 125,
+        "km_fin": 126,
+        "tramo_gis_ref": "T13",
+        "accidentes_2025": 17,
+        "media_historica_2022_2025": 13.0,
+        "prediccion_accidentes_2026": 13.0,
+        "nivel_prioridad_relativa": "ALTA (top 20%)",
+        "pendiente_dsm_proxy_pct": 5.76025390625,
+        "giro_cad_proxy_grados": 245.78059566153414,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 8,
+        "sector_gis_ref": "Lazos de Chinchan – Pre abra Anticona · subtramo",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.25750873280109,
+          -11.678345472021602
+        ]
+      },
+      "properties": {
+        "km_inicio": 109,
+        "km_fin": 110,
+        "tramo_gis_ref": "T10",
+        "accidentes_2025": 11,
+        "media_historica_2022_2025": 11.75,
+        "prediccion_accidentes_2026": 11.75,
+        "nivel_prioridad_relativa": "ALTA (top 20%)",
+        "pendiente_dsm_proxy_pct": 5.262939453125,
+        "giro_cad_proxy_grados": 168.52474476233346,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 9,
+        "sector_gis_ref": "Ascenso a Casapalca · subtramo",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.19533616946019,
+          -11.605225020410712
+        ]
+      },
+      "properties": {
+        "km_inicio": 129,
+        "km_fin": 130,
+        "tramo_gis_ref": "T14",
+        "accidentes_2025": 14,
+        "media_historica_2022_2025": 11.75,
+        "prediccion_accidentes_2026": 11.75,
+        "nivel_prioridad_relativa": "ALTA (top 20%)",
+        "pendiente_dsm_proxy_pct": 3.58349609375,
+        "giro_cad_proxy_grados": 185.61541141803133,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 10,
+        "sector_gis_ref": "Paso de Ticlio – Morococha · subtramo",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.15331891806215,
+          -11.600324784336042
+        ]
+      },
+      "properties": {
+        "km_inicio": 136,
+        "km_fin": 137,
+        "tramo_gis_ref": "T15",
+        "accidentes_2025": 10,
+        "media_historica_2022_2025": 11.25,
+        "prediccion_accidentes_2026": 11.25,
+        "nivel_prioridad_relativa": "ALTA (top 20%)",
+        "pendiente_dsm_proxy_pct": 2.38232421875,
+        "giro_cad_proxy_grados": 227.54964242609435,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 11,
+        "sector_gis_ref": "Paso de Ticlio – Morococha · subtramo",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.26500444903027,
+          -11.691672684929273
+        ]
+      },
+      "properties": {
+        "km_inicio": 107,
+        "km_fin": 108,
+        "tramo_gis_ref": "T09",
+        "accidentes_2025": 7,
+        "media_historica_2022_2025": 11.0,
+        "prediccion_accidentes_2026": 11.0,
+        "nivel_prioridad_relativa": "ALTA (top 20%)",
+        "pendiente_dsm_proxy_pct": 4.76953125,
+        "giro_cad_proxy_grados": 115.28249193664983,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 12,
+        "sector_gis_ref": "Infiernillo – Río Blanco – Chicla · subtramo",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.23344163482818,
+          -11.626837237970893
+        ]
+      },
+      "properties": {
+        "km_inicio": 119,
+        "km_fin": 120,
+        "tramo_gis_ref": "T12",
+        "accidentes_2025": 7,
+        "media_historica_2022_2025": 11.0,
+        "prediccion_accidentes_2026": 11.0,
+        "nivel_prioridad_relativa": "ALTA (top 20%)",
+        "pendiente_dsm_proxy_pct": 5.499755859375,
+        "giro_cad_proxy_grados": 91.73139284017776,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 13,
+        "sector_gis_ref": "Lazos de Chinchan – Pre abra Anticona · subtramo",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.56919235479435,
+          -11.914141664579526
+        ]
+      },
+      "properties": {
+        "km_inicio": 49,
+        "km_fin": 50,
+        "tramo_gis_ref": "T02",
+        "accidentes_2025": 18,
+        "media_historica_2022_2025": 10.75,
+        "prediccion_accidentes_2026": 10.75,
+        "nivel_prioridad_relativa": "ALTA (top 20%)",
+        "pendiente_dsm_proxy_pct": 4.262939453125,
+        "giro_cad_proxy_grados": 117.0751827385657,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 14,
+        "sector_gis_ref": "Corcona – San Bartolomé",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.25323108187804,
+          -11.666049100880347
+        ]
+      },
+      "properties": {
+        "km_inicio": 111,
+        "km_fin": 112,
+        "tramo_gis_ref": "T10",
+        "accidentes_2025": 11,
+        "media_historica_2022_2025": 10.5,
+        "prediccion_accidentes_2026": 10.5,
+        "nivel_prioridad_relativa": "ALTA (top 20%)",
+        "pendiente_dsm_proxy_pct": 4.9456787109375,
+        "giro_cad_proxy_grados": 197.9813405710737,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 15,
+        "sector_gis_ref": "Ascenso a Casapalca · subtramo",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2030854106974,
+          -11.609543063684963
+        ]
+      },
+      "properties": {
+        "km_inicio": 126,
+        "km_fin": 127,
+        "tramo_gis_ref": "T13",
+        "accidentes_2025": 7,
+        "media_historica_2022_2025": 10.5,
+        "prediccion_accidentes_2026": 10.5,
+        "nivel_prioridad_relativa": "ALTA (top 20%)",
+        "pendiente_dsm_proxy_pct": 4.456298828125,
+        "giro_cad_proxy_grados": 136.12955101831483,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 16,
+        "sector_gis_ref": "Lazos de Chinchan – Pre abra Anticona · subtramo",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.0324665781972,
+          -11.610498660804977
+        ]
+      },
+      "properties": {
+        "km_inicio": 152,
+        "km_fin": 153,
+        "tramo_gis_ref": "T17",
+        "accidentes_2025": 7,
+        "media_historica_2022_2025": 10.5,
+        "prediccion_accidentes_2026": 10.5,
+        "nivel_prioridad_relativa": "ALTA (top 20%)",
+        "pendiente_dsm_proxy_pct": 6.638427734375,
+        "giro_cad_proxy_grados": 200.44107585724126,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 17,
+        "sector_gis_ref": "Corredor del río Yauli – Repartición Pachachaca",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.34604927530813,
+          -11.810501342685388
+        ]
+      },
+      "properties": {
+        "km_inicio": 81,
+        "km_fin": 82,
+        "tramo_gis_ref": "T05",
+        "accidentes_2025": 7,
+        "media_historica_2022_2025": 10.25,
+        "prediccion_accidentes_2026": 10.25,
+        "nivel_prioridad_relativa": "ALTA (top 20%)",
+        "pendiente_dsm_proxy_pct": 6.303466796875,
+        "giro_cad_proxy_grados": 83.5652277351922,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 18,
+        "sector_gis_ref": "Salida de Matucana – Cañón de Viso",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.31780659275032,
+          -11.786842369782146
+        ]
+      },
+      "properties": {
+        "km_inicio": 87,
+        "km_fin": 88,
+        "tramo_gis_ref": "T05",
+        "accidentes_2025": 12,
+        "media_historica_2022_2025": 10.25,
+        "prediccion_accidentes_2026": 10.25,
+        "nivel_prioridad_relativa": "ALTA (top 20%)",
+        "pendiente_dsm_proxy_pct": 15.3116455078125,
+        "giro_cad_proxy_grados": 195.2917255238235,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 19,
+        "sector_gis_ref": "Salida de Matucana – Cañón de Viso",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1971262388626,
+          -11.604434146219797
+        ]
+      },
+      "properties": {
+        "km_inicio": 128,
+        "km_fin": 129,
+        "tramo_gis_ref": "T13",
+        "accidentes_2025": 14,
+        "media_historica_2022_2025": 10.25,
+        "prediccion_accidentes_2026": 10.25,
+        "nivel_prioridad_relativa": "ALTA (top 20%)",
+        "pendiente_dsm_proxy_pct": 6.236572265625,
+        "giro_cad_proxy_grados": 202.8367958575976,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 20,
+        "sector_gis_ref": "Lazos de Chinchan – Pre abra Anticona · subtramo",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.25604309666103,
+          -11.670230647976759
+        ]
+      },
+      "properties": {
+        "km_inicio": 110,
+        "km_fin": 111,
+        "tramo_gis_ref": "T10",
+        "accidentes_2025": 16,
+        "media_historica_2022_2025": 10.0,
+        "prediccion_accidentes_2026": 10.0,
+        "nivel_prioridad_relativa": "ALTA (top 20%)",
+        "pendiente_dsm_proxy_pct": 7.23046875,
+        "giro_cad_proxy_grados": 121.00488949217895,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 21,
+        "sector_gis_ref": "Ascenso a Casapalca · subtramo",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1582844714333,
+          -11.600026794960105
+        ]
+      },
+      "properties": {
+        "km_inicio": 135,
+        "km_fin": 136,
+        "tramo_gis_ref": "T15",
+        "accidentes_2025": 10,
+        "media_historica_2022_2025": 9.5,
+        "prediccion_accidentes_2026": 9.5,
+        "nivel_prioridad_relativa": "ALTA (top 20%)",
+        "pendiente_dsm_proxy_pct": 3.375244140625,
+        "giro_cad_proxy_grados": 151.30962320181797,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 22,
+        "sector_gis_ref": "Paso de Ticlio – Morococha · subtramo",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.63515531122938,
+          -11.9231889382219
+        ]
+      },
+      "properties": {
+        "km_inicio": 41,
+        "km_fin": 42,
+        "tramo_gis_ref": "T01",
+        "accidentes_2025": 7,
+        "media_historica_2022_2025": 9.25,
+        "prediccion_accidentes_2026": 9.25,
+        "nivel_prioridad_relativa": "ALTA (top 20%)",
+        "pendiente_dsm_proxy_pct": 2.8756103515625,
+        "giro_cad_proxy_grados": 77.07846811105286,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 23,
+        "sector_gis_ref": "Puente Ricardo Palma – Cupiche",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.19189626328239,
+          -11.598385230652978
+        ]
+      },
+      "properties": {
+        "km_inicio": 130,
+        "km_fin": 131,
+        "tramo_gis_ref": "T14",
+        "accidentes_2025": 11,
+        "media_historica_2022_2025": 8.75,
+        "prediccion_accidentes_2026": 8.75,
+        "nivel_prioridad_relativa": "ALTA (top 20%)",
+        "pendiente_dsm_proxy_pct": 3.81396484375,
+        "giro_cad_proxy_grados": 215.48681589828328,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 24,
+        "sector_gis_ref": "Paso de Ticlio – Morococha · subtramo",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.65266675794769,
+          -11.925819671041477
+        ]
+      },
+      "properties": {
+        "km_inicio": 39,
+        "km_fin": 40,
+        "tramo_gis_ref": "T01",
+        "accidentes_2025": 5,
+        "media_historica_2022_2025": 8.5,
+        "prediccion_accidentes_2026": 8.5,
+        "nivel_prioridad_relativa": "ALTA (top 20%)",
+        "pendiente_dsm_proxy_pct": 2.539215087890625,
+        "giro_cad_proxy_grados": 44.941498682100026,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 25,
+        "sector_gis_ref": "Puente Ricardo Palma – Cupiche",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.61851134764059,
+          -11.91744264498175
+        ]
+      },
+      "properties": {
+        "km_inicio": 43,
+        "km_fin": 44,
+        "tramo_gis_ref": "T01",
+        "accidentes_2025": 8,
+        "media_historica_2022_2025": 8.5,
+        "prediccion_accidentes_2026": 8.5,
+        "nivel_prioridad_relativa": "ALTA (top 20%)",
+        "pendiente_dsm_proxy_pct": 4.22039794921875,
+        "giro_cad_proxy_grados": 30.77425157463224,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 26,
+        "sector_gis_ref": "Puente Ricardo Palma – Cupiche",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.26782310980698,
+          -11.730936362858872
+        ]
+      },
+      "properties": {
+        "km_inicio": 99,
+        "km_fin": 100,
+        "tramo_gis_ref": "T08",
+        "accidentes_2025": 10,
+        "media_historica_2022_2025": 8.5,
+        "prediccion_accidentes_2026": 8.5,
+        "nivel_prioridad_relativa": "ALTA (top 20%)",
+        "pendiente_dsm_proxy_pct": 16.1529541015625,
+        "giro_cad_proxy_grados": 120.25619271759706,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 27,
+        "sector_gis_ref": "Infiernillo – Río Blanco – Chicla · subtramo",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.27032674686437,
+          -11.711944574323457
+        ]
+      },
+      "properties": {
+        "km_inicio": 104,
+        "km_fin": 105,
+        "tramo_gis_ref": "T09",
+        "accidentes_2025": 8,
+        "media_historica_2022_2025": 8.5,
+        "prediccion_accidentes_2026": 8.5,
+        "nivel_prioridad_relativa": "ALTA (top 20%)",
+        "pendiente_dsm_proxy_pct": 5.156982421875,
+        "giro_cad_proxy_grados": 269.36925061733234,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 28,
+        "sector_gis_ref": "Infiernillo – Río Blanco – Chicla · subtramo",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.28582167798201,
+          -11.741193070956752
+        ]
+      },
+      "properties": {
+        "km_inicio": 96,
+        "km_fin": 97,
+        "tramo_gis_ref": "T07",
+        "accidentes_2025": 4,
+        "media_historica_2022_2025": 8.25,
+        "prediccion_accidentes_2026": 8.25,
+        "nivel_prioridad_relativa": "MEDIA",
+        "pendiente_dsm_proxy_pct": 24.9091796875,
+        "giro_cad_proxy_grados": 169.6478114303443,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 29,
+        "sector_gis_ref": "San Mateo – Cacray – Tamboraque · subtramo",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.26744807556966,
+          -11.705471641717182
+        ]
+      },
+      "properties": {
+        "km_inicio": 105,
+        "km_fin": 106,
+        "tramo_gis_ref": "T09",
+        "accidentes_2025": 7,
+        "media_historica_2022_2025": 8.25,
+        "prediccion_accidentes_2026": 8.25,
+        "nivel_prioridad_relativa": "MEDIA",
+        "pendiente_dsm_proxy_pct": 3.2283935546875,
+        "giro_cad_proxy_grados": 222.92050087885679,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 30,
+        "sector_gis_ref": "Infiernillo – Río Blanco – Chicla · subtramo",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.55322787519792,
+          -11.916244032471662
+        ]
+      },
+      "properties": {
+        "km_inicio": 51,
+        "km_fin": 52,
+        "tramo_gis_ref": "T02",
+        "accidentes_2025": 2,
+        "media_historica_2022_2025": 8.0,
+        "prediccion_accidentes_2026": 8.0,
+        "nivel_prioridad_relativa": "MEDIA",
+        "pendiente_dsm_proxy_pct": 5.18353271484375,
+        "giro_cad_proxy_grados": 77.94339087796476,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 31,
+        "sector_gis_ref": "Corcona – San Bartolomé",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.54464887598574,
+          -11.913280521510268
+        ]
+      },
+      "properties": {
+        "km_inicio": 52,
+        "km_fin": 53,
+        "tramo_gis_ref": "T02",
+        "accidentes_2025": 12,
+        "media_historica_2022_2025": 7.75,
+        "prediccion_accidentes_2026": 7.75,
+        "nivel_prioridad_relativa": "MEDIA",
+        "pendiente_dsm_proxy_pct": 3.52227783203125,
+        "giro_cad_proxy_grados": 28.795024340708345,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 32,
+        "sector_gis_ref": "Corcona – San Bartolomé",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2788184663608,
+          -11.739363957635742
+        ]
+      },
+      "properties": {
+        "km_inicio": 97,
+        "km_fin": 98,
+        "tramo_gis_ref": "T07",
+        "accidentes_2025": 10,
+        "media_historica_2022_2025": 7.75,
+        "prediccion_accidentes_2026": 7.75,
+        "nivel_prioridad_relativa": "MEDIA",
+        "pendiente_dsm_proxy_pct": 21.2032470703125,
+        "giro_cad_proxy_grados": 103.36171790969593,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 33,
+        "sector_gis_ref": "San Mateo – Cacray – Tamboraque · subtramo",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.26028672360033,
+          -11.685242061601759
+        ]
+      },
+      "properties": {
+        "km_inicio": 108,
+        "km_fin": 109,
+        "tramo_gis_ref": "T09",
+        "accidentes_2025": 7,
+        "media_historica_2022_2025": 7.75,
+        "prediccion_accidentes_2026": 7.75,
+        "nivel_prioridad_relativa": "MEDIA",
+        "pendiente_dsm_proxy_pct": 3.8271484375,
+        "giro_cad_proxy_grados": 186.47464044702446,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 34,
+        "sector_gis_ref": "Infiernillo – Río Blanco – Chicla · subtramo",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.24583572864516,
+          -11.662327749760596
+        ]
+      },
+      "properties": {
+        "km_inicio": 113,
+        "km_fin": 114,
+        "tramo_gis_ref": "T10",
+        "accidentes_2025": 11,
+        "media_historica_2022_2025": 7.75,
+        "prediccion_accidentes_2026": 7.75,
+        "nivel_prioridad_relativa": "MEDIA",
+        "pendiente_dsm_proxy_pct": 7.46435546875,
+        "giro_cad_proxy_grados": 174.8589611654623,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 35,
+        "sector_gis_ref": "Ascenso a Casapalca · subtramo",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.34080281205676,
+          -11.804263628267819
+        ]
+      },
+      "properties": {
+        "km_inicio": 82,
+        "km_fin": 83,
+        "tramo_gis_ref": "T05",
+        "accidentes_2025": 7,
+        "media_historica_2022_2025": 7.5,
+        "prediccion_accidentes_2026": 7.5,
+        "nivel_prioridad_relativa": "MEDIA",
+        "pendiente_dsm_proxy_pct": 17.5682373046875,
+        "giro_cad_proxy_grados": 158.0269992699899,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 36,
+        "sector_gis_ref": "Salida de Matucana – Cañón de Viso",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.33870935256637,
+          -11.796278811933009
+        ]
+      },
+      "properties": {
+        "km_inicio": 83,
+        "km_fin": 84,
+        "tramo_gis_ref": "T05",
+        "accidentes_2025": 6,
+        "media_historica_2022_2025": 7.5,
+        "prediccion_accidentes_2026": 7.5,
+        "nivel_prioridad_relativa": "MEDIA",
+        "pendiente_dsm_proxy_pct": 8.34033203125,
+        "giro_cad_proxy_grados": 97.88177196137799,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 37,
+        "sector_gis_ref": "Salida de Matucana – Cañón de Viso",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.06804609883744,
+          -11.589209678704844
+        ]
+      },
+      "properties": {
+        "km_inicio": 147,
+        "km_fin": 148,
+        "tramo_gis_ref": "T16",
+        "accidentes_2025": 4,
+        "media_historica_2022_2025": 7.5,
+        "prediccion_accidentes_2026": 7.5,
+        "nivel_prioridad_relativa": "MEDIA",
+        "pendiente_dsm_proxy_pct": 5.095458984375,
+        "giro_cad_proxy_grados": 160.57451139447636,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 38,
+        "sector_gis_ref": "Salida de Morococha – Valle alto de Yauli",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.30459042625789,
+          -11.77155514673811
+        ]
+      },
+      "properties": {
+        "km_inicio": 90,
+        "km_fin": 91,
+        "tramo_gis_ref": "T06",
+        "accidentes_2025": 5,
+        "media_historica_2022_2025": 7.25,
+        "prediccion_accidentes_2026": 7.25,
+        "nivel_prioridad_relativa": "MEDIA",
+        "pendiente_dsm_proxy_pct": 3.212646484375,
+        "giro_cad_proxy_grados": 113.1351502187376,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 39,
+        "sector_gis_ref": "San Mateo – Cacray – Tamboraque · subtramo",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.29132910787646,
+          -11.748112291279382
+        ]
+      },
+      "properties": {
+        "km_inicio": 95,
+        "km_fin": 96,
+        "tramo_gis_ref": "T07",
+        "accidentes_2025": 5,
+        "media_historica_2022_2025": 7.25,
+        "prediccion_accidentes_2026": 7.25,
+        "nivel_prioridad_relativa": "MEDIA",
+        "pendiente_dsm_proxy_pct": 9.4627685546875,
+        "giro_cad_proxy_grados": 160.0335086787346,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 40,
+        "sector_gis_ref": "San Mateo – Cacray – Tamboraque · subtramo",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2685174076423,
+          -11.720241429899064
+        ]
+      },
+      "properties": {
+        "km_inicio": 103,
+        "km_fin": 104,
+        "tramo_gis_ref": "T08",
+        "accidentes_2025": 7,
+        "media_historica_2022_2025": 7.0,
+        "prediccion_accidentes_2026": 7.0,
+        "nivel_prioridad_relativa": "MEDIA",
+        "pendiente_dsm_proxy_pct": 5.438232421875,
+        "giro_cad_proxy_grados": 139.37258262755185,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 41,
+        "sector_gis_ref": "Infiernillo – Río Blanco – Chicla · subtramo",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.53031777753216,
+          -11.9022917821404
+        ]
+      },
+      "properties": {
+        "km_inicio": 54,
+        "km_fin": 55,
+        "tramo_gis_ref": "T02",
+        "accidentes_2025": 8,
+        "media_historica_2022_2025": 6.75,
+        "prediccion_accidentes_2026": 6.75,
+        "nivel_prioridad_relativa": "MEDIA",
+        "pendiente_dsm_proxy_pct": 4.3333740234375,
+        "giro_cad_proxy_grados": 121.35957682340516,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 42,
+        "sector_gis_ref": "Corcona – San Bartolomé",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.25994177755135,
+          -11.733705378391388
+        ]
+      },
+      "properties": {
+        "km_inicio": 101,
+        "km_fin": 102,
+        "tramo_gis_ref": "T08",
+        "accidentes_2025": 6,
+        "media_historica_2022_2025": 6.75,
+        "prediccion_accidentes_2026": 6.75,
+        "nivel_prioridad_relativa": "MEDIA",
+        "pendiente_dsm_proxy_pct": 12.82275390625,
+        "giro_cad_proxy_grados": 105.91974774540188,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 43,
+        "sector_gis_ref": "Infiernillo – Río Blanco – Chicla · subtramo",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.00066002904327,
+          -11.623277959471896
+        ]
+      },
+      "properties": {
+        "km_inicio": 156,
+        "km_fin": 157,
+        "tramo_gis_ref": "T17",
+        "accidentes_2025": 7,
+        "media_historica_2022_2025": 6.75,
+        "prediccion_accidentes_2026": 6.75,
+        "nivel_prioridad_relativa": "MEDIA",
+        "pendiente_dsm_proxy_pct": 0.47143554687499994,
+        "giro_cad_proxy_grados": 54.372784348024354,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 44,
+        "sector_gis_ref": "Corredor del río Yauli – Repartición Pachachaca",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.29610614873928,
+          -11.755243973553773
+        ]
+      },
+      "properties": {
+        "km_inicio": 94,
+        "km_fin": 95,
+        "tramo_gis_ref": "T07",
+        "accidentes_2025": 5,
+        "media_historica_2022_2025": 6.5,
+        "prediccion_accidentes_2026": 6.5,
+        "nivel_prioridad_relativa": "MEDIA",
+        "pendiente_dsm_proxy_pct": 3.3841552734375,
+        "giro_cad_proxy_grados": 167.17156819060173,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 45,
+        "sector_gis_ref": "San Mateo – Cacray – Tamboraque · subtramo",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.24566326267728,
+          -11.662751679894885
+        ]
+      },
+      "properties": {
+        "km_inicio": 112,
+        "km_fin": 113,
+        "tramo_gis_ref": "T10",
+        "accidentes_2025": 4,
+        "media_historica_2022_2025": 6.5,
+        "prediccion_accidentes_2026": 6.5,
+        "nivel_prioridad_relativa": "MEDIA",
+        "pendiente_dsm_proxy_pct": 3.7452392578125,
+        "giro_cad_proxy_grados": 71.58493885014167,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 46,
+        "sector_gis_ref": "Ascenso a Casapalca · subtramo",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.02433154425138,
+          -11.612190656052226
+        ]
+      },
+      "properties": {
+        "km_inicio": 153,
+        "km_fin": 154,
+        "tramo_gis_ref": "T17",
+        "accidentes_2025": 3,
+        "media_historica_2022_2025": 6.5,
+        "prediccion_accidentes_2026": 6.5,
+        "nivel_prioridad_relativa": "MEDIA",
+        "pendiente_dsm_proxy_pct": 8.2099609375,
+        "giro_cad_proxy_grados": 181.2512727330592,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 47,
+        "sector_gis_ref": "Corredor del río Yauli – Repartición Pachachaca",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.26636368840914,
+          -11.728727567467708
+        ]
+      },
+      "properties": {
+        "km_inicio": 102,
+        "km_fin": 103,
+        "tramo_gis_ref": "T08",
+        "accidentes_2025": 9,
+        "media_historica_2022_2025": 6.25,
+        "prediccion_accidentes_2026": 6.25,
+        "nivel_prioridad_relativa": "MEDIA",
+        "pendiente_dsm_proxy_pct": 9.1336669921875,
+        "giro_cad_proxy_grados": 126.48854179421308,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 48,
+        "sector_gis_ref": "Infiernillo – Río Blanco – Chicla · subtramo",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.23298303798796,
+          -11.637156778937232
+        ]
+      },
+      "properties": {
+        "km_inicio": 117,
+        "km_fin": 118,
+        "tramo_gis_ref": "T11",
+        "accidentes_2025": 5,
+        "media_historica_2022_2025": 6.25,
+        "prediccion_accidentes_2026": 6.25,
+        "nivel_prioridad_relativa": "MEDIA",
+        "pendiente_dsm_proxy_pct": 6.626220703125001,
+        "giro_cad_proxy_grados": 81.77929665557626,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 49,
+        "sector_gis_ref": "Ascenso a Casapalca · subtramo",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.17646664295502,
+          -11.59972396306241
+        ]
+      },
+      "properties": {
+        "km_inicio": 133,
+        "km_fin": 134,
+        "tramo_gis_ref": "T14",
+        "accidentes_2025": 3,
+        "media_historica_2022_2025": 6.25,
+        "prediccion_accidentes_2026": 6.25,
+        "nivel_prioridad_relativa": "MEDIA",
+        "pendiente_dsm_proxy_pct": 3.784423828125,
+        "giro_cad_proxy_grados": 62.86218246774198,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 50,
+        "sector_gis_ref": "Paso de Ticlio – Morococha · subtramo",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.12748760319856,
+          -11.601175229655349
+        ]
+      },
+      "properties": {
+        "km_inicio": 140,
+        "km_fin": 141,
+        "tramo_gis_ref": "T16",
+        "accidentes_2025": 5,
+        "media_historica_2022_2025": 6.25,
+        "prediccion_accidentes_2026": 6.25,
+        "nivel_prioridad_relativa": "MEDIA",
+        "pendiente_dsm_proxy_pct": 4.681640625,
+        "giro_cad_proxy_grados": 208.87354540789218,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 51,
+        "sector_gis_ref": "Salida de Morococha – Valle alto de Yauli",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.11089933245981,
+          -11.60016725774301
+        ]
+      },
+      "properties": {
+        "km_inicio": 142,
+        "km_fin": 143,
+        "tramo_gis_ref": "T16",
+        "accidentes_2025": 8,
+        "media_historica_2022_2025": 6.25,
+        "prediccion_accidentes_2026": 6.25,
+        "nivel_prioridad_relativa": "MEDIA",
+        "pendiente_dsm_proxy_pct": 4.1259765625,
+        "giro_cad_proxy_grados": 99.87586274973008,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 52,
+        "sector_gis_ref": "Salida de Morococha – Valle alto de Yauli",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5937373902117,
+          -11.908702110933143
+        ]
+      },
+      "properties": {
+        "km_inicio": 46,
+        "km_fin": 47,
+        "tramo_gis_ref": "T01",
+        "accidentes_2025": 9,
+        "media_historica_2022_2025": 6.0,
+        "prediccion_accidentes_2026": 6.0,
+        "nivel_prioridad_relativa": "MEDIA",
+        "pendiente_dsm_proxy_pct": 5.7498779296875,
+        "giro_cad_proxy_grados": 91.76718910839664,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 53,
+        "sector_gis_ref": "Puente Ricardo Palma – Cupiche",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.36222450662513,
+          -11.821730050529856
+        ]
+      },
+      "properties": {
+        "km_inicio": 78,
+        "km_fin": 79,
+        "tramo_gis_ref": "T04",
+        "accidentes_2025": 8,
+        "media_historica_2022_2025": 6.0,
+        "prediccion_accidentes_2026": 6.0,
+        "nivel_prioridad_relativa": "MEDIA",
+        "pendiente_dsm_proxy_pct": 10.4783935546875,
+        "giro_cad_proxy_grados": 151.30074710533523,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 54,
+        "sector_gis_ref": "Quebradas de acceso – Travesía Matucana",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.21726197219925,
+          -11.619449360587149
+        ]
+      },
+      "properties": {
+        "km_inicio": 122,
+        "km_fin": 123,
+        "tramo_gis_ref": "T12",
+        "accidentes_2025": 9,
+        "media_historica_2022_2025": 6.0,
+        "prediccion_accidentes_2026": 6.0,
+        "nivel_prioridad_relativa": "MEDIA",
+        "pendiente_dsm_proxy_pct": 6.1708984375,
+        "giro_cad_proxy_grados": 112.27785363442695,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 55,
+        "sector_gis_ref": "Lazos de Chinchan – Pre abra Anticona · subtramo",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1462358681445,
+          -11.59897859099804
+        ]
+      },
+      "properties": {
+        "km_inicio": 137,
+        "km_fin": 138,
+        "tramo_gis_ref": "T15",
+        "accidentes_2025": 8,
+        "media_historica_2022_2025": 6.0,
+        "prediccion_accidentes_2026": 6.0,
+        "nivel_prioridad_relativa": "MEDIA",
+        "pendiente_dsm_proxy_pct": 9.74755859375,
+        "giro_cad_proxy_grados": 167.9388368882621,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 56,
+        "sector_gis_ref": "Paso de Ticlio – Morococha · subtramo",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.01677840325667,
+          -11.616302524500739
+        ]
+      },
+      "properties": {
+        "km_inicio": 154,
+        "km_fin": 155,
+        "tramo_gis_ref": "T17",
+        "accidentes_2025": 8,
+        "media_historica_2022_2025": 6.0,
+        "prediccion_accidentes_2026": 6.0,
+        "nivel_prioridad_relativa": "MEDIA",
+        "pendiente_dsm_proxy_pct": 5.390380859375,
+        "giro_cad_proxy_grados": 122.24299937492935,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 57,
+        "sector_gis_ref": "Corredor del río Yauli – Repartición Pachachaca",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.60192645817943,
+          -11.912479346731477
+        ]
+      },
+      "properties": {
+        "km_inicio": 45,
+        "km_fin": 46,
+        "tramo_gis_ref": "T01",
+        "accidentes_2025": 4,
+        "media_historica_2022_2025": 5.75,
+        "prediccion_accidentes_2026": 5.75,
+        "nivel_prioridad_relativa": "MEDIA",
+        "pendiente_dsm_proxy_pct": 4.29254150390625,
+        "giro_cad_proxy_grados": 67.27406594203964,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 58,
+        "sector_gis_ref": "Puente Ricardo Palma – Cupiche",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.44928221574827,
+          -11.88821625495847
+        ]
+      },
+      "properties": {
+        "km_inicio": 65,
+        "km_fin": 66,
+        "tramo_gis_ref": "T03",
+        "accidentes_2025": 6,
+        "media_historica_2022_2025": 5.75,
+        "prediccion_accidentes_2026": 5.75,
+        "nivel_prioridad_relativa": "MEDIA",
+        "pendiente_dsm_proxy_pct": 6.4560546875,
+        "giro_cad_proxy_grados": 172.61376945641697,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 59,
+        "sector_gis_ref": "Garganta del Rímac – Surco",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.24437463818981,
+          -11.660338697002908
+        ]
+      },
+      "properties": {
+        "km_inicio": 114,
+        "km_fin": 115,
+        "tramo_gis_ref": "T11",
+        "accidentes_2025": 8,
+        "media_historica_2022_2025": 5.75,
+        "prediccion_accidentes_2026": 5.75,
+        "nivel_prioridad_relativa": "MEDIA",
+        "pendiente_dsm_proxy_pct": 8.44287109375,
+        "giro_cad_proxy_grados": 146.4274891110981,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 60,
+        "sector_gis_ref": "Ascenso a Casapalca · subtramo",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.23405611638705,
+          -11.645963460767511
+        ]
+      },
+      "properties": {
+        "km_inicio": 116,
+        "km_fin": 117,
+        "tramo_gis_ref": "T11",
+        "accidentes_2025": 5,
+        "media_historica_2022_2025": 5.75,
+        "prediccion_accidentes_2026": 5.75,
+        "nivel_prioridad_relativa": "MEDIA",
+        "pendiente_dsm_proxy_pct": 7.61181640625,
+        "giro_cad_proxy_grados": 76.63443538463716,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 61,
+        "sector_gis_ref": "Ascenso a Casapalca · subtramo",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.62633728505809,
+          -11.922055980579543
+        ]
+      },
+      "properties": {
+        "km_inicio": 42,
+        "km_fin": 43,
+        "tramo_gis_ref": "T01",
+        "accidentes_2025": 6,
+        "media_historica_2022_2025": 5.5,
+        "prediccion_accidentes_2026": 5.5,
+        "nivel_prioridad_relativa": "MEDIA",
+        "pendiente_dsm_proxy_pct": 5.72601318359375,
+        "giro_cad_proxy_grados": 52.61678920141798,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 62,
+        "sector_gis_ref": "Puente Ricardo Palma – Cupiche",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.42500266331028,
+          -11.86569029364192
+        ]
+      },
+      "properties": {
+        "km_inicio": 69,
+        "km_fin": 70,
+        "tramo_gis_ref": "T04",
+        "accidentes_2025": 8,
+        "media_historica_2022_2025": 5.5,
+        "prediccion_accidentes_2026": 5.5,
+        "nivel_prioridad_relativa": "MEDIA",
+        "pendiente_dsm_proxy_pct": 10.330322265625,
+        "giro_cad_proxy_grados": 90.0514709070554,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 63,
+        "sector_gis_ref": "Quebradas de acceso – Travesía Matucana",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.26609471751289,
+          -11.697760992389133
+        ]
+      },
+      "properties": {
+        "km_inicio": 106,
+        "km_fin": 107,
+        "tramo_gis_ref": "T09",
+        "accidentes_2025": 4,
+        "media_historica_2022_2025": 5.5,
+        "prediccion_accidentes_2026": 5.5,
+        "nivel_prioridad_relativa": "MEDIA",
+        "pendiente_dsm_proxy_pct": 6.37353515625,
+        "giro_cad_proxy_grados": 81.1920978687863,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 64,
+        "sector_gis_ref": "Infiernillo – Río Blanco – Chicla · subtramo",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.13404692832125,
+          -11.597009990844724
+        ]
+      },
+      "properties": {
+        "km_inicio": 139,
+        "km_fin": 140,
+        "tramo_gis_ref": "T16",
+        "accidentes_2025": 3,
+        "media_historica_2022_2025": 5.5,
+        "prediccion_accidentes_2026": 5.5,
+        "nivel_prioridad_relativa": "MEDIA",
+        "pendiente_dsm_proxy_pct": 4.498779296875,
+        "giro_cad_proxy_grados": 140.33820551828168,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 65,
+        "sector_gis_ref": "Salida de Morococha – Valle alto de Yauli",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.32574301970581,
+          -11.783630880561564
+        ]
+      },
+      "properties": {
+        "km_inicio": 86,
+        "km_fin": 87,
+        "tramo_gis_ref": "T05",
+        "accidentes_2025": 5,
+        "media_historica_2022_2025": 5.25,
+        "prediccion_accidentes_2026": 5.25,
+        "nivel_prioridad_relativa": "MEDIA",
+        "pendiente_dsm_proxy_pct": 2.1507568359375,
+        "giro_cad_proxy_grados": 163.09868106446928,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 66,
+        "sector_gis_ref": "Salida de Matucana – Cañón de Viso",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.22800408957293,
+          -11.632837090275462
+        ]
+      },
+      "properties": {
+        "km_inicio": 120,
+        "km_fin": 121,
+        "tramo_gis_ref": "T12",
+        "accidentes_2025": 4,
+        "media_historica_2022_2025": 5.25,
+        "prediccion_accidentes_2026": 5.25,
+        "nivel_prioridad_relativa": "MEDIA",
+        "pendiente_dsm_proxy_pct": 4.441650390625,
+        "giro_cad_proxy_grados": 129.3999360604801,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 67,
+        "sector_gis_ref": "Lazos de Chinchan – Pre abra Anticona · subtramo",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3337008312001,
+          -11.784411588901678
+        ]
+      },
+      "properties": {
+        "km_inicio": 85,
+        "km_fin": 86,
+        "tramo_gis_ref": "T05",
+        "accidentes_2025": 4,
+        "media_historica_2022_2025": 5.0,
+        "prediccion_accidentes_2026": 5.0,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": 7.7193603515625,
+        "giro_cad_proxy_grados": 111.61345284428462,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 68,
+        "sector_gis_ref": "Salida de Matucana – Cañón de Viso",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.21073556840766,
+          -11.613387751922016
+        ]
+      },
+      "properties": {
+        "km_inicio": 123,
+        "km_fin": 124,
+        "tramo_gis_ref": "T12",
+        "accidentes_2025": 8,
+        "media_historica_2022_2025": 5.0,
+        "prediccion_accidentes_2026": 5.0,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": 3.5205078125,
+        "giro_cad_proxy_grados": 54.35232189102134,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 69,
+        "sector_gis_ref": "Lazos de Chinchan – Pre abra Anticona · subtramo",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.11924332811444,
+          -11.60165614635752
+        ]
+      },
+      "properties": {
+        "km_inicio": 141,
+        "km_fin": 142,
+        "tramo_gis_ref": "T16",
+        "accidentes_2025": 4,
+        "media_historica_2022_2025": 5.0,
+        "prediccion_accidentes_2026": 5.0,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": 2.920166015625,
+        "giro_cad_proxy_grados": 112.61364296687718,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 70,
+        "sector_gis_ref": "Salida de Morococha – Valle alto de Yauli",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.48615487519471,
+          -11.887734464249576
+        ]
+      },
+      "properties": {
+        "km_inicio": 60,
+        "km_fin": 61,
+        "tramo_gis_ref": "T03",
+        "accidentes_2025": 4,
+        "media_historica_2022_2025": 4.75,
+        "prediccion_accidentes_2026": 4.75,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": 3.744384765625,
+        "giro_cad_proxy_grados": 128.62089090894136,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 71,
+        "sector_gis_ref": "Garganta del Rímac – Surco",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.40314127234598,
+          -11.852717067438965
+        ]
+      },
+      "properties": {
+        "km_inicio": 72,
+        "km_fin": 73,
+        "tramo_gis_ref": "T04",
+        "accidentes_2025": 5,
+        "media_historica_2022_2025": 4.75,
+        "prediccion_accidentes_2026": 4.75,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": 4.391845703125,
+        "giro_cad_proxy_grados": 144.78806573172324,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 72,
+        "sector_gis_ref": "Quebradas de acceso – Travesía Matucana",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.24010844053656,
+          -11.652654861705793
+        ]
+      },
+      "properties": {
+        "km_inicio": 115,
+        "km_fin": 116,
+        "tramo_gis_ref": "T11",
+        "accidentes_2025": 7,
+        "media_historica_2022_2025": 4.75,
+        "prediccion_accidentes_2026": 4.75,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": 5.9296875,
+        "giro_cad_proxy_grados": 55.75908709673401,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 73,
+        "sector_gis_ref": "Ascenso a Casapalca · subtramo",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.20787546715005,
+          -11.615880935588024
+        ]
+      },
+      "properties": {
+        "km_inicio": 124,
+        "km_fin": 125,
+        "tramo_gis_ref": "T13",
+        "accidentes_2025": 5,
+        "media_historica_2022_2025": 4.75,
+        "prediccion_accidentes_2026": 4.75,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": 4.482666015625,
+        "giro_cad_proxy_grados": 132.5977920880847,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 74,
+        "sector_gis_ref": "Lazos de Chinchan – Pre abra Anticona · subtramo",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.05938241819774,
+          -11.590846752167332
+        ]
+      },
+      "properties": {
+        "km_inicio": 148,
+        "km_fin": 149,
+        "tramo_gis_ref": "T16",
+        "accidentes_2025": 2,
+        "media_historica_2022_2025": 4.75,
+        "prediccion_accidentes_2026": 4.75,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": 4.060302734375,
+        "giro_cad_proxy_grados": 58.99252652299115,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 75,
+        "sector_gis_ref": "Salida de Morococha – Valle alto de Yauli",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.98469511115053,
+          -11.621054054112893
+        ]
+      },
+      "properties": {
+        "km_inicio": 158,
+        "km_fin": 159,
+        "tramo_gis_ref": "T17",
+        "accidentes_2025": 6,
+        "media_historica_2022_2025": 4.75,
+        "prediccion_accidentes_2026": 4.75,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": "",
+        "giro_cad_proxy_grados": 111.18469049707777,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 76,
+        "sector_gis_ref": "Corredor del río Yauli – Repartición Pachachaca",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.53728829091234,
+          -11.907966525281193
+        ]
+      },
+      "properties": {
+        "km_inicio": 53,
+        "km_fin": 54,
+        "tramo_gis_ref": "T02",
+        "accidentes_2025": 2,
+        "media_historica_2022_2025": 4.5,
+        "prediccion_accidentes_2026": 4.5,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": 2.66259765625,
+        "giro_cad_proxy_grados": 78.50223958231456,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 77,
+        "sector_gis_ref": "Corcona – San Bartolomé",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.44307910845312,
+          -11.88301219092318
+        ]
+      },
+      "properties": {
+        "km_inicio": 66,
+        "km_fin": 67,
+        "tramo_gis_ref": "T03",
+        "accidentes_2025": 3,
+        "media_historica_2022_2025": 4.5,
+        "prediccion_accidentes_2026": 4.5,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": 8.72930908203125,
+        "giro_cad_proxy_grados": 133.64303746671322,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 78,
+        "sector_gis_ref": "Garganta del Rímac – Surco",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.31150179281849,
+          -11.787429150490011
+        ]
+      },
+      "properties": {
+        "km_inicio": 88,
+        "km_fin": 89,
+        "tramo_gis_ref": "T05",
+        "accidentes_2025": 5,
+        "media_historica_2022_2025": 4.5,
+        "prediccion_accidentes_2026": 4.5,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": 12.6705322265625,
+        "giro_cad_proxy_grados": 157.13945570207957,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 79,
+        "sector_gis_ref": "Salida de Matucana – Cañón de Viso",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.22149015141979,
+          -11.627069142718844
+        ]
+      },
+      "properties": {
+        "km_inicio": 121,
+        "km_fin": 122,
+        "tramo_gis_ref": "T12",
+        "accidentes_2025": 4,
+        "media_historica_2022_2025": 4.5,
+        "prediccion_accidentes_2026": 4.5,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": 7.90380859375,
+        "giro_cad_proxy_grados": 47.438550009017725,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 80,
+        "sector_gis_ref": "Lazos de Chinchan – Pre abra Anticona · subtramo",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.04801508274882,
+          -11.603778381593257
+        ]
+      },
+      "properties": {
+        "km_inicio": 150,
+        "km_fin": 151,
+        "tramo_gis_ref": "T17",
+        "accidentes_2025": 5,
+        "media_historica_2022_2025": 4.5,
+        "prediccion_accidentes_2026": 4.5,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": 2.95068359375,
+        "giro_cad_proxy_grados": 133.29317749079587,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 81,
+        "sector_gis_ref": "Corredor del río Yauli – Repartición Pachachaca",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.47784393499715,
+          -11.886115806607608
+        ]
+      },
+      "properties": {
+        "km_inicio": 61,
+        "km_fin": 62,
+        "tramo_gis_ref": "T03",
+        "accidentes_2025": 3,
+        "media_historica_2022_2025": 4.25,
+        "prediccion_accidentes_2026": 4.25,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": 11.85772705078125,
+        "giro_cad_proxy_grados": 189.8044174345965,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 82,
+        "sector_gis_ref": "Garganta del Rímac – Surco",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.39477846195534,
+          -11.850421098407441
+        ]
+      },
+      "properties": {
+        "km_inicio": 73,
+        "km_fin": 74,
+        "tramo_gis_ref": "T04",
+        "accidentes_2025": 2,
+        "media_historica_2022_2025": 4.25,
+        "prediccion_accidentes_2026": 4.25,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": 12.8743896484375,
+        "giro_cad_proxy_grados": 116.71194130711646,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 83,
+        "sector_gis_ref": "Quebradas de acceso – Travesía Matucana",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.92762369115913,
+          -11.541240349591906
+        ]
+      },
+      "properties": {
+        "km_inicio": 170,
+        "km_fin": 171,
+        "tramo_gis_ref": "T19",
+        "accidentes_2025": 8,
+        "media_historica_2022_2025": 4.25,
+        "prediccion_accidentes_2026": 4.25,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": "",
+        "giro_cad_proxy_grados": 125.657106392351,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 84,
+        "sector_gis_ref": "Santa Rosa de Sacco – Nodo urbano La Oroya",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.57655429899349,
+          -11.909732799405615
+        ]
+      },
+      "properties": {
+        "km_inicio": 48,
+        "km_fin": 49,
+        "tramo_gis_ref": "T01",
+        "accidentes_2025": 3,
+        "media_historica_2022_2025": 4.0,
+        "prediccion_accidentes_2026": 4.0,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": 2.78228759765625,
+        "giro_cad_proxy_grados": 46.910746941519186,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 85,
+        "sector_gis_ref": "Puente Ricardo Palma – Cupiche",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.46953177479476,
+          -11.884996581777035
+        ]
+      },
+      "properties": {
+        "km_inicio": 62,
+        "km_fin": 63,
+        "tramo_gis_ref": "T03",
+        "accidentes_2025": 5,
+        "media_historica_2022_2025": 4.0,
+        "prediccion_accidentes_2026": 4.0,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": 6.822509765625,
+        "giro_cad_proxy_grados": 137.78076593741798,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 86,
+        "sector_gis_ref": "Garganta del Rímac – Surco",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.43482891804648,
+          -11.879581299626347
+        ]
+      },
+      "properties": {
+        "km_inicio": 67,
+        "km_fin": 68,
+        "tramo_gis_ref": "T03",
+        "accidentes_2025": 1,
+        "media_historica_2022_2025": 4.0,
+        "prediccion_accidentes_2026": 4.0,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": 7.6165771484375,
+        "giro_cad_proxy_grados": 93.28315257272233,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 87,
+        "sector_gis_ref": "Garganta del Rímac – Surco",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.41136724082499,
+          -11.85512584645388
+        ]
+      },
+      "properties": {
+        "km_inicio": 71,
+        "km_fin": 72,
+        "tramo_gis_ref": "T04",
+        "accidentes_2025": 5,
+        "media_historica_2022_2025": 4.0,
+        "prediccion_accidentes_2026": 4.0,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": 8.0831298828125,
+        "giro_cad_proxy_grados": 168.760329225754,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 88,
+        "sector_gis_ref": "Quebradas de acceso – Travesía Matucana",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.30683117759389,
+          -11.774662685225922
+        ]
+      },
+      "properties": {
+        "km_inicio": 91,
+        "km_fin": 92,
+        "tramo_gis_ref": "T06",
+        "accidentes_2025": 6,
+        "media_historica_2022_2025": 4.0,
+        "prediccion_accidentes_2026": 4.0,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": 8.2230224609375,
+        "giro_cad_proxy_grados": 124.45130740061859,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 89,
+        "sector_gis_ref": "San Mateo – Cacray – Tamboraque · subtramo",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.05268374389492,
+          -11.596521968003966
+        ]
+      },
+      "properties": {
+        "km_inicio": 149,
+        "km_fin": 150,
+        "tramo_gis_ref": "T17",
+        "accidentes_2025": 2,
+        "media_historica_2022_2025": 4.0,
+        "prediccion_accidentes_2026": 4.0,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": 2.88427734375,
+        "giro_cad_proxy_grados": 34.40322895478593,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 90,
+        "sector_gis_ref": "Corredor del río Yauli – Repartición Pachachaca",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.61077682267623,
+          -11.914358514983785
+        ]
+      },
+      "properties": {
+        "km_inicio": 44,
+        "km_fin": 45,
+        "tramo_gis_ref": "T01",
+        "accidentes_2025": 2,
+        "media_historica_2022_2025": 3.75,
+        "prediccion_accidentes_2026": 3.75,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": 2.60992431640625,
+        "giro_cad_proxy_grados": 105.69074575922527,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 91,
+        "sector_gis_ref": "Puente Ricardo Palma – Cupiche",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.30714523869557,
+          -11.780089051495557
+        ]
+      },
+      "properties": {
+        "km_inicio": 89,
+        "km_fin": 90,
+        "tramo_gis_ref": "T06",
+        "accidentes_2025": 4,
+        "media_historica_2022_2025": 3.75,
+        "prediccion_accidentes_2026": 3.75,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": 5.2509765625,
+        "giro_cad_proxy_grados": 122.60129501927054,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 92,
+        "sector_gis_ref": "San Mateo – Cacray – Tamboraque · subtramo",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.30644290739896,
+          -11.768763283426177
+        ]
+      },
+      "properties": {
+        "km_inicio": 92,
+        "km_fin": 93,
+        "tramo_gis_ref": "T06",
+        "accidentes_2025": 5,
+        "media_historica_2022_2025": 3.75,
+        "prediccion_accidentes_2026": 3.75,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": 5.6409912109375,
+        "giro_cad_proxy_grados": 166.8073147261589,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 93,
+        "sector_gis_ref": "San Mateo – Cacray – Tamboraque · subtramo",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.30207581067513,
+          -11.7615296886905
+        ]
+      },
+      "properties": {
+        "km_inicio": 93,
+        "km_fin": 94,
+        "tramo_gis_ref": "T06",
+        "accidentes_2025": 5,
+        "media_historica_2022_2025": 3.75,
+        "prediccion_accidentes_2026": 3.75,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": 3.8951416015625,
+        "giro_cad_proxy_grados": 209.90977671898483,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 94,
+        "sector_gis_ref": "San Mateo – Cacray – Tamboraque · subtramo",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.94265931852792,
+          -11.55017702029447
+        ]
+      },
+      "properties": {
+        "km_inicio": 168,
+        "km_fin": 169,
+        "tramo_gis_ref": "T18",
+        "accidentes_2025": 6,
+        "media_historica_2022_2025": 3.75,
+        "prediccion_accidentes_2026": 3.75,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": "",
+        "giro_cad_proxy_grados": 55.99657838060174,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 95,
+        "sector_gis_ref": "Curipata – Aproximación periurbana a Sacco",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.33525504876646,
+          -11.788422060580835
+        ]
+      },
+      "properties": {
+        "km_inicio": 84,
+        "km_fin": 85,
+        "tramo_gis_ref": "T05",
+        "accidentes_2025": 1,
+        "media_historica_2022_2025": 3.5,
+        "prediccion_accidentes_2026": 3.5,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": 13.4716796875,
+        "giro_cad_proxy_grados": 204.1039226229786,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 96,
+        "sector_gis_ref": "Salida de Matucana – Cañón de Viso",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.98171598030034,
+          -11.61318886655866
+        ]
+      },
+      "properties": {
+        "km_inicio": 159,
+        "km_fin": 160,
+        "tramo_gis_ref": "T18",
+        "accidentes_2025": 2,
+        "media_historica_2022_2025": 3.5,
+        "prediccion_accidentes_2026": 3.5,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": "",
+        "giro_cad_proxy_grados": 140.55828580988117,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 97,
+        "sector_gis_ref": "Curipata – Aproximación periurbana a Sacco",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.97501748990452,
+          -11.607932418136867
+        ]
+      },
+      "properties": {
+        "km_inicio": 160,
+        "km_fin": 161,
+        "tramo_gis_ref": "T18",
+        "accidentes_2025": 3,
+        "media_historica_2022_2025": 3.5,
+        "prediccion_accidentes_2026": 3.5,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": "",
+        "giro_cad_proxy_grados": 99.17944780253232,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 98,
+        "sector_gis_ref": "Curipata – Aproximación periurbana a Sacco",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.41847591588692,
+          -11.859762901867136
+        ]
+      },
+      "properties": {
+        "km_inicio": 70,
+        "km_fin": 71,
+        "tramo_gis_ref": "T04",
+        "accidentes_2025": 4,
+        "media_historica_2022_2025": 3.25,
+        "prediccion_accidentes_2026": 3.25,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": 10.9080810546875,
+        "giro_cad_proxy_grados": 92.11207203074981,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 99,
+        "sector_gis_ref": "Quebradas de acceso – Travesía Matucana",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.38012296940738,
+          -11.841029257553249
+        ]
+      },
+      "properties": {
+        "km_inicio": 75,
+        "km_fin": 76,
+        "tramo_gis_ref": "T04",
+        "accidentes_2025": 2,
+        "media_historica_2022_2025": 3.25,
+        "prediccion_accidentes_2026": 3.25,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": 4.8765869140625,
+        "giro_cad_proxy_grados": 123.34882195634685,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 100,
+        "sector_gis_ref": "Quebradas de acceso – Travesía Matucana",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.16737138299183,
+          -11.599938064436705
+        ]
+      },
+      "properties": {
+        "km_inicio": 134,
+        "km_fin": 135,
+        "tramo_gis_ref": "T15",
+        "accidentes_2025": 3,
+        "media_historica_2022_2025": 3.25,
+        "prediccion_accidentes_2026": 3.25,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": 4.49365234375,
+        "giro_cad_proxy_grados": 46.29813971314802,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 101,
+        "sector_gis_ref": "Paso de Ticlio – Morococha · subtramo",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.49418008905887,
+          -11.890313917908243
+        ]
+      },
+      "properties": {
+        "km_inicio": 59,
+        "km_fin": 60,
+        "tramo_gis_ref": "T03",
+        "accidentes_2025": 4,
+        "media_historica_2022_2025": 3.0,
+        "prediccion_accidentes_2026": 3.0,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": 5.3717041015625,
+        "giro_cad_proxy_grados": 185.95441802684914,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 102,
+        "sector_gis_ref": "Garganta del Rímac – Surco",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.08530037433754,
+          -11.59439658684991
+        ]
+      },
+      "properties": {
+        "km_inicio": 145,
+        "km_fin": 146,
+        "tramo_gis_ref": "T16",
+        "accidentes_2025": 2,
+        "media_historica_2022_2025": 3.0,
+        "prediccion_accidentes_2026": 3.0,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": 1.51416015625,
+        "giro_cad_proxy_grados": 56.78475912530213,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 103,
+        "sector_gis_ref": "Salida de Morococha – Valle alto de Yauli",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.07655703457263,
+          -11.59213714803137
+        ]
+      },
+      "properties": {
+        "km_inicio": 146,
+        "km_fin": 147,
+        "tramo_gis_ref": "T16",
+        "accidentes_2025": 1,
+        "media_historica_2022_2025": 3.0,
+        "prediccion_accidentes_2026": 3.0,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": 3.850830078125,
+        "giro_cad_proxy_grados": 34.469145329499476,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 104,
+        "sector_gis_ref": "Salida de Morococha – Valle alto de Yauli",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.9215807809486,
+          -11.534712223854545
+        ]
+      },
+      "properties": {
+        "km_inicio": 171,
+        "km_fin": 172,
+        "tramo_gis_ref": "T19",
+        "accidentes_2025": 3,
+        "media_historica_2022_2025": 3.0,
+        "prediccion_accidentes_2026": 3.0,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": "",
+        "giro_cad_proxy_grados": 13.177734947122815,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 105,
+        "sector_gis_ref": "Santa Rosa de Sacco – Nodo urbano La Oroya",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.10220595214462,
+          -11.598878855613918
+        ]
+      },
+      "properties": {
+        "km_inicio": 143,
+        "km_fin": 144,
+        "tramo_gis_ref": "T16",
+        "accidentes_2025": 2,
+        "media_historica_2022_2025": 2.75,
+        "prediccion_accidentes_2026": 2.75,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": 5.531005859375,
+        "giro_cad_proxy_grados": 66.1054295136681,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 106,
+        "sector_gis_ref": "Salida de Morococha – Valle alto de Yauli",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.09408785477113,
+          -11.59500489195747
+        ]
+      },
+      "properties": {
+        "km_inicio": 144,
+        "km_fin": 145,
+        "tramo_gis_ref": "T16",
+        "accidentes_2025": 2,
+        "media_historica_2022_2025": 2.75,
+        "prediccion_accidentes_2026": 2.75,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": 2.1220703125,
+        "giro_cad_proxy_grados": 61.960732394224934,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 107,
+        "sector_gis_ref": "Salida de Morococha – Valle alto de Yauli",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.9922817732628,
+          -11.625319318771448
+        ]
+      },
+      "properties": {
+        "km_inicio": 157,
+        "km_fin": 158,
+        "tramo_gis_ref": "T17",
+        "accidentes_2025": 3,
+        "media_historica_2022_2025": 2.75,
+        "prediccion_accidentes_2026": 2.75,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": "",
+        "giro_cad_proxy_grados": 48.15581938803898,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 108,
+        "sector_gis_ref": "Corredor del río Yauli – Repartición Pachachaca",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.95723061585822,
+          -11.588785987269633
+        ]
+      },
+      "properties": {
+        "km_inicio": 163,
+        "km_fin": 164,
+        "tramo_gis_ref": "T18",
+        "accidentes_2025": 3,
+        "media_historica_2022_2025": 2.75,
+        "prediccion_accidentes_2026": 2.75,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": "",
+        "giro_cad_proxy_grados": 50.39497089101531,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 109,
+        "sector_gis_ref": "Curipata – Aproximación periurbana a Sacco",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.91627066192544,
+          -11.527345364362517
+        ]
+      },
+      "properties": {
+        "km_inicio": 172,
+        "km_fin": 173,
+        "tramo_gis_ref": "T19",
+        "accidentes_2025": 6,
+        "media_historica_2022_2025": 2.75,
+        "prediccion_accidentes_2026": 2.75,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": "",
+        "giro_cad_proxy_grados": 29.60076179804905,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 110,
+        "sector_gis_ref": "Santa Rosa de Sacco – Nodo urbano La Oroya",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.64376536630567,
+          -11.925663718933885
+        ]
+      },
+      "properties": {
+        "km_inicio": 40,
+        "km_fin": 41,
+        "tramo_gis_ref": "T01",
+        "accidentes_2025": 0,
+        "media_historica_2022_2025": 2.5,
+        "prediccion_accidentes_2026": 2.5,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": 2.809906005859375,
+        "giro_cad_proxy_grados": 46.59099650889564,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 111,
+        "sector_gis_ref": "Puente Ricardo Palma – Cupiche",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5229952522059,
+          -11.90668118838715
+        ]
+      },
+      "properties": {
+        "km_inicio": 55,
+        "km_fin": 56,
+        "tramo_gis_ref": "T02",
+        "accidentes_2025": 2,
+        "media_historica_2022_2025": 2.5,
+        "prediccion_accidentes_2026": 2.5,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": 4.4588623046875,
+        "giro_cad_proxy_grados": 177.4932109344632,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 112,
+        "sector_gis_ref": "Corcona – San Bartolomé",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.50581461720706,
+          -11.902418376995062
+        ]
+      },
+      "properties": {
+        "km_inicio": 57,
+        "km_fin": 58,
+        "tramo_gis_ref": "T02",
+        "accidentes_2025": 1,
+        "media_historica_2022_2025": 2.5,
+        "prediccion_accidentes_2026": 2.5,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": 7.3662109375,
+        "giro_cad_proxy_grados": 106.24200587834885,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 113,
+        "sector_gis_ref": "Corcona – San Bartolomé",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.23431056515224,
+          -11.628529232734293
+        ]
+      },
+      "properties": {
+        "km_inicio": 118,
+        "km_fin": 119,
+        "tramo_gis_ref": "T11",
+        "accidentes_2025": 1,
+        "media_historica_2022_2025": 2.5,
+        "prediccion_accidentes_2026": 2.5,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": 6.2841796875,
+        "giro_cad_proxy_grados": 105.03850571541248,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 114,
+        "sector_gis_ref": "Ascenso a Casapalca · subtramo",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.93400086551097,
+          -11.547409199674158
+        ]
+      },
+      "properties": {
+        "km_inicio": 169,
+        "km_fin": 170,
+        "tramo_gis_ref": "T19",
+        "accidentes_2025": 2,
+        "media_historica_2022_2025": 2.5,
+        "prediccion_accidentes_2026": 2.5,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": "",
+        "giro_cad_proxy_grados": 21.13652310719367,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 115,
+        "sector_gis_ref": "Santa Rosa de Sacco – Nodo urbano La Oroya",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.51432903971453,
+          -11.904505368968254
+        ]
+      },
+      "properties": {
+        "km_inicio": 56,
+        "km_fin": 57,
+        "tramo_gis_ref": "T02",
+        "accidentes_2025": 2,
+        "media_historica_2022_2025": 2.25,
+        "prediccion_accidentes_2026": 2.25,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": 8.3876953125,
+        "giro_cad_proxy_grados": 110.23665047622875,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 116,
+        "sector_gis_ref": "Corcona – San Bartolomé",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.46237650856317,
+          -11.885875464891805
+        ]
+      },
+      "properties": {
+        "km_inicio": 63,
+        "km_fin": 64,
+        "tramo_gis_ref": "T03",
+        "accidentes_2025": 2,
+        "media_historica_2022_2025": 2.25,
+        "prediccion_accidentes_2026": 2.25,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": 4.838623046875,
+        "giro_cad_proxy_grados": 132.3455889543587,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 117,
+        "sector_gis_ref": "Garganta del Rímac – Surco",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.45396179026754,
+          -11.887669223199751
+        ]
+      },
+      "properties": {
+        "km_inicio": 64,
+        "km_fin": 65,
+        "tramo_gis_ref": "T03",
+        "accidentes_2025": 3,
+        "media_historica_2022_2025": 2.25,
+        "prediccion_accidentes_2026": 2.25,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": 2.45196533203125,
+        "giro_cad_proxy_grados": 134.21583609373005,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 118,
+        "sector_gis_ref": "Garganta del Rímac – Surco",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.38788123748972,
+          -11.845281371703544
+        ]
+      },
+      "properties": {
+        "km_inicio": 74,
+        "km_fin": 75,
+        "tramo_gis_ref": "T04",
+        "accidentes_2025": 1,
+        "media_historica_2022_2025": 2.25,
+        "prediccion_accidentes_2026": 2.25,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": 1.8421630859375,
+        "giro_cad_proxy_grados": 89.4178295376546,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 119,
+        "sector_gis_ref": "Quebradas de acceso – Travesía Matucana",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.04030264326673,
+          -11.60773466883772
+        ]
+      },
+      "properties": {
+        "km_inicio": 151,
+        "km_fin": 152,
+        "tramo_gis_ref": "T17",
+        "accidentes_2025": 2,
+        "media_historica_2022_2025": 2.25,
+        "prediccion_accidentes_2026": 2.25,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": 4.90625,
+        "giro_cad_proxy_grados": 138.6584750321947,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 120,
+        "sector_gis_ref": "Corredor del río Yauli – Repartición Pachachaca",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.95880033924125,
+          -11.570974100771673
+        ]
+      },
+      "properties": {
+        "km_inicio": 165,
+        "km_fin": 166,
+        "tramo_gis_ref": "T18",
+        "accidentes_2025": 0,
+        "media_historica_2022_2025": 2.25,
+        "prediccion_accidentes_2026": 2.25,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": "",
+        "giro_cad_proxy_grados": 71.4459096160927,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 121,
+        "sector_gis_ref": "Curipata – Aproximación periurbana a Sacco",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.94746002099224,
+          -11.557447503424005
+        ]
+      },
+      "properties": {
+        "km_inicio": 167,
+        "km_fin": 168,
+        "tramo_gis_ref": "T18",
+        "accidentes_2025": 3,
+        "media_historica_2022_2025": 2.25,
+        "prediccion_accidentes_2026": 2.25,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": "",
+        "giro_cad_proxy_grados": 75.87597322296261,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 122,
+        "sector_gis_ref": "Curipata – Aproximación periurbana a Sacco",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.36826090393713,
+          -11.82797998361508
+        ]
+      },
+      "properties": {
+        "km_inicio": 77,
+        "km_fin": 78,
+        "tramo_gis_ref": "T04",
+        "accidentes_2025": 2,
+        "media_historica_2022_2025": 2.0,
+        "prediccion_accidentes_2026": 2.0,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": 5.3248291015625,
+        "giro_cad_proxy_grados": 71.86379502128763,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 123,
+        "sector_gis_ref": "Quebradas de acceso – Travesía Matucana",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.00797772138186,
+          -11.618599407819916
+        ]
+      },
+      "properties": {
+        "km_inicio": 155,
+        "km_fin": 156,
+        "tramo_gis_ref": "T17",
+        "accidentes_2025": 5,
+        "media_historica_2022_2025": 2.0,
+        "prediccion_accidentes_2026": 2.0,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": 4.552734375,
+        "giro_cad_proxy_grados": 51.87664865948727,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 124,
+        "sector_gis_ref": "Corredor del río Yauli – Repartición Pachachaca",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.96845919315483,
+          -11.602310747177
+        ]
+      },
+      "properties": {
+        "km_inicio": 161,
+        "km_fin": 162,
+        "tramo_gis_ref": "T18",
+        "accidentes_2025": 1,
+        "media_historica_2022_2025": 2.0,
+        "prediccion_accidentes_2026": 2.0,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": "",
+        "giro_cad_proxy_grados": 75.81966051007859,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 125,
+        "sector_gis_ref": "Curipata – Aproximación periurbana a Sacco",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.9535612953947,
+          -11.563815544002942
+        ]
+      },
+      "properties": {
+        "km_inicio": 166,
+        "km_fin": 167,
+        "tramo_gis_ref": "T18",
+        "accidentes_2025": 3,
+        "media_historica_2022_2025": 2.0,
+        "prediccion_accidentes_2026": 2.0,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": "",
+        "giro_cad_proxy_grados": 75.01032268696824,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 126,
+        "sector_gis_ref": "Curipata – Aproximación periurbana a Sacco",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.58539810511905,
+          -11.91194928098044
+        ]
+      },
+      "properties": {
+        "km_inicio": 47,
+        "km_fin": 48,
+        "tramo_gis_ref": "T01",
+        "accidentes_2025": 1,
+        "media_historica_2022_2025": 1.75,
+        "prediccion_accidentes_2026": 1.75,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": 1.4163818359375,
+        "giro_cad_proxy_grados": 55.56580005749801,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 127,
+        "sector_gis_ref": "Puente Ricardo Palma – Cupiche",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.49944771554964,
+          -11.896838567603652
+        ]
+      },
+      "properties": {
+        "km_inicio": 58,
+        "km_fin": 59,
+        "tramo_gis_ref": "T02",
+        "accidentes_2025": 1,
+        "media_historica_2022_2025": 1.75,
+        "prediccion_accidentes_2026": 1.75,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": 10.07293701171875,
+        "giro_cad_proxy_grados": 134.31823802624325,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 128,
+        "sector_gis_ref": "Corcona – San Bartolomé",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.42830914021654,
+          -11.873737656036836
+        ]
+      },
+      "properties": {
+        "km_inicio": 68,
+        "km_fin": 69,
+        "tramo_gis_ref": "T03",
+        "accidentes_2025": 4,
+        "media_historica_2022_2025": 1.75,
+        "prediccion_accidentes_2026": 1.75,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": 5.024658203125,
+        "giro_cad_proxy_grados": 134.24437898149083,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 129,
+        "sector_gis_ref": "Garganta del Rímac – Surco",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.37472237719004,
+          -11.83422940384453
+        ]
+      },
+      "properties": {
+        "km_inicio": 76,
+        "km_fin": 77,
+        "tramo_gis_ref": "T04",
+        "accidentes_2025": 3,
+        "media_historica_2022_2025": 1.75,
+        "prediccion_accidentes_2026": 1.75,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": 2.576904296875,
+        "giro_cad_proxy_grados": 51.223248076284165,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 130,
+        "sector_gis_ref": "Quebradas de acceso – Travesía Matucana",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3565458131382,
+          -11.815002574313374
+        ]
+      },
+      "properties": {
+        "km_inicio": 79,
+        "km_fin": 80,
+        "tramo_gis_ref": "T05",
+        "accidentes_2025": 2,
+        "media_historica_2022_2025": 1.5,
+        "prediccion_accidentes_2026": 1.5,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": 3.7987060546875,
+        "giro_cad_proxy_grados": 157.4666198532675,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 131,
+        "sector_gis_ref": "Salida de Matucana – Cañón de Viso",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.35110171408141,
+          -11.810554867695414
+        ]
+      },
+      "properties": {
+        "km_inicio": 80,
+        "km_fin": 81,
+        "tramo_gis_ref": "T05",
+        "accidentes_2025": 3,
+        "media_historica_2022_2025": 1.5,
+        "prediccion_accidentes_2026": 1.5,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": 4.888427734375,
+        "giro_cad_proxy_grados": 222.7551478591307,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 132,
+        "sector_gis_ref": "Salida de Matucana – Cañón de Viso",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.962273610554,
+          -11.595857696656386
+        ]
+      },
+      "properties": {
+        "km_inicio": 162,
+        "km_fin": 163,
+        "tramo_gis_ref": "T18",
+        "accidentes_2025": 0,
+        "media_historica_2022_2025": 1.5,
+        "prediccion_accidentes_2026": 1.5,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": "",
+        "giro_cad_proxy_grados": 10.902190658441487,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 133,
+        "sector_gis_ref": "Curipata – Aproximación periurbana a Sacco",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.9572329343885,
+          -11.579835263012123
+        ]
+      },
+      "properties": {
+        "km_inicio": 164,
+        "km_fin": 165,
+        "tramo_gis_ref": "T18",
+        "accidentes_2025": 2,
+        "media_historica_2022_2025": 1.5,
+        "prediccion_accidentes_2026": 1.5,
+        "nivel_prioridad_relativa": "BAJA",
+        "pendiente_dsm_proxy_pct": "",
+        "giro_cad_proxy_grados": 4.603229505638969,
+        "ubicacion": "PROVISIONAL: kilometraje entero; eje CAD por verificar",
+        "puesto": 134,
+        "sector_gis_ref": "Curipata – Aproximación periurbana a Sacco",
+        "nota_posicion": "Marca CAD aproximada al centro del km; ubicacion provisional"
+      }
+    }
+  ]
+}

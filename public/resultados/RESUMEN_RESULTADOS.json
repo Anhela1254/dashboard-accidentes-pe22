@@ -1,0 +1,35 @@
+{
+  "modelo_elegido_validacion_2024": "Media histórica",
+  "n_registros_para_modelo": 3190,
+  "anios_y_cuentas": {
+    "2022": 814,
+    "2023": 804,
+    "2024": 775,
+    "2025": 797
+  },
+  "errores_prueba_2025": {
+    "Modelo": "Media histórica",
+    "Corte": "Prueba 2025 (referencia)",
+    "MAE": 2.4527,
+    "RMSE": 3.1291,
+    "Deviancia_Poisson": 1.5792
+  },
+  "suma_predicciones_2026": 797.5,
+  "km_cobertura": "39-172 (intervalos 39-40 a 172-173)",
+  "advertencia": "Riesgo relativo exploratorio; CAD/DSM no es geometria certificada; falta TPDA verificado",
+  "variables": [
+    "accidentes_ano_previo",
+    "accidentes_media_historica",
+    "accidentes_max_historico",
+    "accidentes_tendencia",
+    "despistes_ano_previo",
+    "pendiente_dsm_proxy_pct",
+    "giro_cad_proxy_grados",
+    "km_inicio"
+  ],
+  "exclusiones": {
+    "Evento OSITRAN relacionado o en revision": 13,
+    "Fuente externa (conciliacion pendiente)": 101,
+    "Fuera de cobertura GIS 39-172": 31
+  }
+}

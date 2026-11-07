@@ -1,0 +1,9 @@
+﻿Modelo,Corte,MAE,RMSE,Deviancia_Poisson
+Random Forest,Validacion 2024 (entrenado 2023),2.452,3.262,1.7446
+Poisson,Validacion 2024 (entrenado 2023),2.4288,3.1479,1.6534
+Media histórica,Validacion 2024 (referencia sin entrenamiento),2.3582,3.2317,1.9498
+Último año,Validacion 2024 (referencia sin entrenamiento),2.8582,3.7307,4.8975
+Random Forest,Prueba 2025 (entrenado 2023-2024),2.471,3.2939,1.5922
+Poisson,Prueba 2025 (entrenado 2023-2024),2.5982,3.4895,1.7842
+Media histórica,Prueba 2025 (referencia),2.4527,3.1291,1.5792
+Último año,Prueba 2025 (referencia),2.8657,3.8381,4.0272

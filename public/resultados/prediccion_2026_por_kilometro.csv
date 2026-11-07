@@ -1,0 +1,135 @@
+﻿puesto,km_inicio,km_fin,tramo_gis_ref,sector_gis_ref,accidentes_2025,media_historica_2022_2025,prediccion_accidentes_2026,nivel_prioridad_relativa,pendiente_dsm_proxy_pct,giro_cad_proxy_grados,ubicacion
+1,132,133,T14,Paso de Ticlio – Morococha · subtramo,24,19.25,19.25,ALTA (top 20%),5.954345703125,128.84876694511144,PROVISIONAL: kilometraje entero; eje CAD por verificar
+2,98,99,T07,San Mateo – Cacray – Tamboraque · subtramo,24,17.0,17.0,ALTA (top 20%),18.38671875,116.42924244673128,PROVISIONAL: kilometraje entero; eje CAD por verificar
+3,127,128,T13,Lazos de Chinchan – Pre abra Anticona · subtramo,17,15.75,15.75,ALTA (top 20%),5.489990234375,152.73992270469068,PROVISIONAL: kilometraje entero; eje CAD por verificar
+4,138,139,T15,Paso de Ticlio – Morococha · subtramo,17,15.0,15.0,ALTA (top 20%),4.82568359375,116.3127885508232,PROVISIONAL: kilometraje entero; eje CAD por verificar
+5,50,51,T02,Corcona – San Bartolomé,17,14.75,14.75,ALTA (top 20%),2.69219970703125,137.74011919019424,PROVISIONAL: kilometraje entero; eje CAD por verificar
+6,131,132,T14,Paso de Ticlio – Morococha · subtramo,9,14.75,14.75,ALTA (top 20%),3.936279296875,140.79531385373883,PROVISIONAL: kilometraje entero; eje CAD por verificar
+7,100,101,T08,Infiernillo – Río Blanco – Chicla · subtramo,19,14.0,14.0,ALTA (top 20%),4.601318359375,152.22973037868897,PROVISIONAL: kilometraje entero; eje CAD por verificar
+8,125,126,T13,Lazos de Chinchan – Pre abra Anticona · subtramo,17,13.0,13.0,ALTA (top 20%),5.76025390625,245.78059566153397,PROVISIONAL: kilometraje entero; eje CAD por verificar
+9,109,110,T10,Ascenso a Casapalca · subtramo,11,11.75,11.75,ALTA (top 20%),5.262939453125,168.52474476233337,PROVISIONAL: kilometraje entero; eje CAD por verificar
+10,129,130,T14,Paso de Ticlio – Morococha · subtramo,14,11.75,11.75,ALTA (top 20%),3.58349609375,185.61541141803136,PROVISIONAL: kilometraje entero; eje CAD por verificar
+11,136,137,T15,Paso de Ticlio – Morococha · subtramo,10,11.25,11.25,ALTA (top 20%),2.38232421875,227.54964242609427,PROVISIONAL: kilometraje entero; eje CAD por verificar
+12,107,108,T09,Infiernillo – Río Blanco – Chicla · subtramo,7,11.0,11.0,ALTA (top 20%),4.76953125,115.28249193664983,PROVISIONAL: kilometraje entero; eje CAD por verificar
+13,119,120,T12,Lazos de Chinchan – Pre abra Anticona · subtramo,7,11.0,11.0,ALTA (top 20%),5.499755859375,91.73139284017847,PROVISIONAL: kilometraje entero; eje CAD por verificar
+14,49,50,T02,Corcona – San Bartolomé,18,10.75,10.75,ALTA (top 20%),4.262939453125,117.07518273853152,PROVISIONAL: kilometraje entero; eje CAD por verificar
+15,111,112,T10,Ascenso a Casapalca · subtramo,11,10.5,10.5,ALTA (top 20%),4.9456787109375,197.98134057107382,PROVISIONAL: kilometraje entero; eje CAD por verificar
+16,126,127,T13,Lazos de Chinchan – Pre abra Anticona · subtramo,7,10.5,10.5,ALTA (top 20%),4.456298828125,136.12955101831486,PROVISIONAL: kilometraje entero; eje CAD por verificar
+17,152,153,T17,Corredor del río Yauli – Repartición Pachachaca,7,10.5,10.5,ALTA (top 20%),6.638427734375,200.44107585724126,PROVISIONAL: kilometraje entero; eje CAD por verificar
+18,81,82,T05,Salida de Matucana – Cañón de Viso,7,10.25,10.25,ALTA (top 20%),6.303466796875,83.56522773519211,PROVISIONAL: kilometraje entero; eje CAD por verificar
+19,87,88,T05,Salida de Matucana – Cañón de Viso,12,10.25,10.25,ALTA (top 20%),15.3116455078125,195.2917255238234,PROVISIONAL: kilometraje entero; eje CAD por verificar
+20,128,129,T13,Lazos de Chinchan – Pre abra Anticona · subtramo,14,10.25,10.25,ALTA (top 20%),6.236572265625,202.8367958575975,PROVISIONAL: kilometraje entero; eje CAD por verificar
+21,110,111,T10,Ascenso a Casapalca · subtramo,16,10.0,10.0,ALTA (top 20%),7.23046875,121.00488949217893,PROVISIONAL: kilometraje entero; eje CAD por verificar
+22,135,136,T15,Paso de Ticlio – Morococha · subtramo,10,9.5,9.5,ALTA (top 20%),3.375244140625,151.30962320181797,PROVISIONAL: kilometraje entero; eje CAD por verificar
+23,41,42,T01,Puente Ricardo Palma – Cupiche,7,9.25,9.25,ALTA (top 20%),2.8756103515625,77.07846811105286,PROVISIONAL: kilometraje entero; eje CAD por verificar
+24,130,131,T14,Paso de Ticlio – Morococha · subtramo,11,8.75,8.75,ALTA (top 20%),3.81396484375,215.48681589828337,PROVISIONAL: kilometraje entero; eje CAD por verificar
+25,39,40,T01,Puente Ricardo Palma – Cupiche,5,8.5,8.5,ALTA (top 20%),2.539215087890625,44.94149868210365,PROVISIONAL: kilometraje entero; eje CAD por verificar
+26,43,44,T01,Puente Ricardo Palma – Cupiche,8,8.5,8.5,ALTA (top 20%),4.22039794921875,30.774251574630494,PROVISIONAL: kilometraje entero; eje CAD por verificar
+27,99,100,T08,Infiernillo – Río Blanco – Chicla · subtramo,10,8.5,8.5,ALTA (top 20%),16.1529541015625,120.25619271759707,PROVISIONAL: kilometraje entero; eje CAD por verificar
+28,104,105,T09,Infiernillo – Río Blanco – Chicla · subtramo,8,8.5,8.5,ALTA (top 20%),5.156982421875,269.3692506173335,PROVISIONAL: kilometraje entero; eje CAD por verificar
+29,96,97,T07,San Mateo – Cacray – Tamboraque · subtramo,4,8.25,8.25,MEDIA,24.9091796875,169.64781143034406,PROVISIONAL: kilometraje entero; eje CAD por verificar
+30,105,106,T09,Infiernillo – Río Blanco – Chicla · subtramo,7,8.25,8.25,MEDIA,3.2283935546875,222.9205008788568,PROVISIONAL: kilometraje entero; eje CAD por verificar
+31,51,52,T02,Corcona – San Bartolomé,2,8.0,8.0,MEDIA,5.18353271484375,77.9433908779648,PROVISIONAL: kilometraje entero; eje CAD por verificar
+32,52,53,T02,Corcona – San Bartolomé,12,7.75,7.75,MEDIA,3.52227783203125,28.79502434070811,PROVISIONAL: kilometraje entero; eje CAD por verificar
+33,97,98,T07,San Mateo – Cacray – Tamboraque · subtramo,10,7.75,7.75,MEDIA,21.2032470703125,103.3617179096959,PROVISIONAL: kilometraje entero; eje CAD por verificar
+34,108,109,T09,Infiernillo – Río Blanco – Chicla · subtramo,7,7.75,7.75,MEDIA,3.8271484375,186.47464044702383,PROVISIONAL: kilometraje entero; eje CAD por verificar
+35,113,114,T10,Ascenso a Casapalca · subtramo,11,7.75,7.75,MEDIA,7.46435546875,174.8589611654623,PROVISIONAL: kilometraje entero; eje CAD por verificar
+36,82,83,T05,Salida de Matucana – Cañón de Viso,7,7.5,7.5,MEDIA,17.5682373046875,158.02699926999023,PROVISIONAL: kilometraje entero; eje CAD por verificar
+37,83,84,T05,Salida de Matucana – Cañón de Viso,6,7.5,7.5,MEDIA,8.34033203125,97.8817719613769,PROVISIONAL: kilometraje entero; eje CAD por verificar
+38,147,148,T16,Salida de Morococha – Valle alto de Yauli,4,7.5,7.5,MEDIA,5.095458984375,160.5745113944764,PROVISIONAL: kilometraje entero; eje CAD por verificar
+39,90,91,T06,San Mateo – Cacray – Tamboraque · subtramo,5,7.25,7.25,MEDIA,3.212646484375,113.1351502187376,PROVISIONAL: kilometraje entero; eje CAD por verificar
+40,95,96,T07,San Mateo – Cacray – Tamboraque · subtramo,5,7.25,7.25,MEDIA,9.4627685546875,160.03350867873445,PROVISIONAL: kilometraje entero; eje CAD por verificar
+41,103,104,T08,Infiernillo – Río Blanco – Chicla · subtramo,7,7.0,7.0,MEDIA,5.438232421875,139.37258262755353,PROVISIONAL: kilometraje entero; eje CAD por verificar
+42,54,55,T02,Corcona – San Bartolomé,8,6.75,6.75,MEDIA,4.3333740234375,121.35957682332415,PROVISIONAL: kilometraje entero; eje CAD por verificar
+43,101,102,T08,Infiernillo – Río Blanco – Chicla · subtramo,6,6.75,6.75,MEDIA,12.82275390625,105.91974774540196,PROVISIONAL: kilometraje entero; eje CAD por verificar
+44,156,157,T17,Corredor del río Yauli – Repartición Pachachaca,7,6.75,6.75,MEDIA,0.47143554687499994,54.372784348024354,PROVISIONAL: kilometraje entero; eje CAD por verificar
+45,94,95,T07,San Mateo – Cacray – Tamboraque · subtramo,5,6.5,6.5,MEDIA,3.3841552734375,167.17156819060185,PROVISIONAL: kilometraje entero; eje CAD por verificar
+46,112,113,T10,Ascenso a Casapalca · subtramo,4,6.5,6.5,MEDIA,3.7452392578125,71.58493885014173,PROVISIONAL: kilometraje entero; eje CAD por verificar
+47,153,154,T17,Corredor del río Yauli – Repartición Pachachaca,3,6.5,6.5,MEDIA,8.2099609375,181.251272733059,PROVISIONAL: kilometraje entero; eje CAD por verificar
+48,102,103,T08,Infiernillo – Río Blanco – Chicla · subtramo,9,6.25,6.25,MEDIA,9.1336669921875,126.48854179421349,PROVISIONAL: kilometraje entero; eje CAD por verificar
+49,117,118,T11,Ascenso a Casapalca · subtramo,5,6.25,6.25,MEDIA,6.626220703125001,81.77929665557598,PROVISIONAL: kilometraje entero; eje CAD por verificar
+50,133,134,T14,Paso de Ticlio – Morococha · subtramo,3,6.25,6.25,MEDIA,3.784423828125,62.86218246774198,PROVISIONAL: kilometraje entero; eje CAD por verificar
+51,140,141,T16,Salida de Morococha – Valle alto de Yauli,5,6.25,6.25,MEDIA,4.681640625,208.8735454078922,PROVISIONAL: kilometraje entero; eje CAD por verificar
+52,142,143,T16,Salida de Morococha – Valle alto de Yauli,8,6.25,6.25,MEDIA,4.1259765625,99.87586274973009,PROVISIONAL: kilometraje entero; eje CAD por verificar
+53,46,47,T01,Puente Ricardo Palma – Cupiche,9,6.0,6.0,MEDIA,5.7498779296875,91.76718910839664,PROVISIONAL: kilometraje entero; eje CAD por verificar
+54,78,79,T04,Quebradas de acceso – Travesía Matucana,8,6.0,6.0,MEDIA,10.4783935546875,151.30074710533518,PROVISIONAL: kilometraje entero; eje CAD por verificar
+55,122,123,T12,Lazos de Chinchan – Pre abra Anticona · subtramo,9,6.0,6.0,MEDIA,6.1708984375,112.27785363442628,PROVISIONAL: kilometraje entero; eje CAD por verificar
+56,137,138,T15,Paso de Ticlio – Morococha · subtramo,8,6.0,6.0,MEDIA,9.74755859375,167.93883688826222,PROVISIONAL: kilometraje entero; eje CAD por verificar
+57,154,155,T17,Corredor del río Yauli – Repartición Pachachaca,8,6.0,6.0,MEDIA,5.390380859375,122.24299937492937,PROVISIONAL: kilometraje entero; eje CAD por verificar
+58,45,46,T01,Puente Ricardo Palma – Cupiche,4,5.75,5.75,MEDIA,4.29254150390625,67.27406594203964,PROVISIONAL: kilometraje entero; eje CAD por verificar
+59,65,66,T03,Garganta del Rímac – Surco,6,5.75,5.75,MEDIA,6.4560546875,172.61376945641692,PROVISIONAL: kilometraje entero; eje CAD por verificar
+60,114,115,T11,Ascenso a Casapalca · subtramo,8,5.75,5.75,MEDIA,8.44287109375,146.42748911109612,PROVISIONAL: kilometraje entero; eje CAD por verificar
+61,116,117,T11,Ascenso a Casapalca · subtramo,5,5.75,5.75,MEDIA,7.61181640625,76.63443538463332,PROVISIONAL: kilometraje entero; eje CAD por verificar
+62,42,43,T01,Puente Ricardo Palma – Cupiche,6,5.5,5.5,MEDIA,5.72601318359375,52.61678920141799,PROVISIONAL: kilometraje entero; eje CAD por verificar
+63,69,70,T04,Quebradas de acceso – Travesía Matucana,8,5.5,5.5,MEDIA,10.330322265625,90.05147090705505,PROVISIONAL: kilometraje entero; eje CAD por verificar
+64,106,107,T09,Infiernillo – Río Blanco – Chicla · subtramo,4,5.5,5.5,MEDIA,6.37353515625,81.19209786878295,PROVISIONAL: kilometraje entero; eje CAD por verificar
+65,139,140,T16,Salida de Morococha – Valle alto de Yauli,3,5.5,5.5,MEDIA,4.498779296875,140.33820431086295,PROVISIONAL: kilometraje entero; eje CAD por verificar
+66,86,87,T05,Salida de Matucana – Cañón de Viso,5,5.25,5.25,MEDIA,2.1507568359375,163.09868106446928,PROVISIONAL: kilometraje entero; eje CAD por verificar
+67,120,121,T12,Lazos de Chinchan – Pre abra Anticona · subtramo,4,5.25,5.25,MEDIA,4.441650390625,129.39993606047946,PROVISIONAL: kilometraje entero; eje CAD por verificar
+68,85,86,T05,Salida de Matucana – Cañón de Viso,4,5.0,5.0,BAJA,7.7193603515625,111.61345284428485,PROVISIONAL: kilometraje entero; eje CAD por verificar
+69,123,124,T12,Lazos de Chinchan – Pre abra Anticona · subtramo,8,5.0,5.0,BAJA,3.5205078125,54.352321891020225,PROVISIONAL: kilometraje entero; eje CAD por verificar
+70,141,142,T16,Salida de Morococha – Valle alto de Yauli,4,5.0,5.0,BAJA,2.920166015625,112.61364296687715,PROVISIONAL: kilometraje entero; eje CAD por verificar
+71,60,61,T03,Garganta del Rímac – Surco,4,4.75,4.75,BAJA,3.744384765625,128.6208909089422,PROVISIONAL: kilometraje entero; eje CAD por verificar
+72,72,73,T04,Quebradas de acceso – Travesía Matucana,5,4.75,4.75,BAJA,4.391845703125,144.7880657317233,PROVISIONAL: kilometraje entero; eje CAD por verificar
+73,115,116,T11,Ascenso a Casapalca · subtramo,7,4.75,4.75,BAJA,5.9296875,55.759087096737154,PROVISIONAL: kilometraje entero; eje CAD por verificar
+74,124,125,T13,Lazos de Chinchan – Pre abra Anticona · subtramo,5,4.75,4.75,BAJA,4.482666015625,132.5977920880849,PROVISIONAL: kilometraje entero; eje CAD por verificar
+75,148,149,T16,Salida de Morococha – Valle alto de Yauli,2,4.75,4.75,BAJA,4.060302734375,58.992526522994005,PROVISIONAL: kilometraje entero; eje CAD por verificar
+76,158,159,T17,Corredor del río Yauli – Repartición Pachachaca,6,4.75,4.75,BAJA,,111.18469049703171,PROVISIONAL: kilometraje entero; eje CAD por verificar
+77,53,54,T02,Corcona – San Bartolomé,2,4.5,4.5,BAJA,2.66259765625,78.50223958231444,PROVISIONAL: kilometraje entero; eje CAD por verificar
+78,66,67,T03,Garganta del Rímac – Surco,3,4.5,4.5,BAJA,8.72930908203125,133.64303746671322,PROVISIONAL: kilometraje entero; eje CAD por verificar
+79,88,89,T05,Salida de Matucana – Cañón de Viso,5,4.5,4.5,BAJA,12.6705322265625,157.13945570207866,PROVISIONAL: kilometraje entero; eje CAD por verificar
+80,121,122,T12,Lazos de Chinchan – Pre abra Anticona · subtramo,4,4.5,4.5,BAJA,7.90380859375,47.43855000901751,PROVISIONAL: kilometraje entero; eje CAD por verificar
+81,150,151,T17,Corredor del río Yauli – Repartición Pachachaca,5,4.5,4.5,BAJA,2.95068359375,133.29317749079584,PROVISIONAL: kilometraje entero; eje CAD por verificar
+82,61,62,T03,Garganta del Rímac – Surco,3,4.25,4.25,BAJA,11.85772705078125,189.8044174345965,PROVISIONAL: kilometraje entero; eje CAD por verificar
+83,73,74,T04,Quebradas de acceso – Travesía Matucana,2,4.25,4.25,BAJA,12.8743896484375,116.71194130711173,PROVISIONAL: kilometraje entero; eje CAD por verificar
+84,170,171,T19,Santa Rosa de Sacco – Nodo urbano La Oroya,8,4.25,4.25,BAJA,,125.65710639234909,PROVISIONAL: kilometraje entero; eje CAD por verificar
+85,48,49,T01,Puente Ricardo Palma – Cupiche,3,4.0,4.0,BAJA,2.78228759765625,46.91074694151919,PROVISIONAL: kilometraje entero; eje CAD por verificar
+86,62,63,T03,Garganta del Rímac – Surco,5,4.0,4.0,BAJA,6.822509765625,137.780765937418,PROVISIONAL: kilometraje entero; eje CAD por verificar
+87,67,68,T03,Garganta del Rímac – Surco,1,4.0,4.0,BAJA,7.6165771484375,93.28315257272223,PROVISIONAL: kilometraje entero; eje CAD por verificar
+88,71,72,T04,Quebradas de acceso – Travesía Matucana,5,4.0,4.0,BAJA,8.0831298828125,168.76032922575396,PROVISIONAL: kilometraje entero; eje CAD por verificar
+89,91,92,T06,San Mateo – Cacray – Tamboraque · subtramo,6,4.0,4.0,BAJA,8.2230224609375,124.45130740061859,PROVISIONAL: kilometraje entero; eje CAD por verificar
+90,149,150,T17,Corredor del río Yauli – Repartición Pachachaca,2,4.0,4.0,BAJA,2.88427734375,34.40323016220392,PROVISIONAL: kilometraje entero; eje CAD por verificar
+91,44,45,T01,Puente Ricardo Palma – Cupiche,2,3.75,3.75,BAJA,2.60992431640625,105.69074575922527,PROVISIONAL: kilometraje entero; eje CAD por verificar
+92,89,90,T06,San Mateo – Cacray – Tamboraque · subtramo,4,3.75,3.75,BAJA,5.2509765625,122.6012950192706,PROVISIONAL: kilometraje entero; eje CAD por verificar
+93,92,93,T06,San Mateo – Cacray – Tamboraque · subtramo,5,3.75,3.75,BAJA,5.6409912109375,166.80731472615895,PROVISIONAL: kilometraje entero; eje CAD por verificar
+94,93,94,T06,San Mateo – Cacray – Tamboraque · subtramo,5,3.75,3.75,BAJA,3.8951416015625,209.90977671898483,PROVISIONAL: kilometraje entero; eje CAD por verificar
+95,168,169,T18,Curipata – Aproximación periurbana a Sacco,6,3.75,3.75,BAJA,,55.99657838060463,PROVISIONAL: kilometraje entero; eje CAD por verificar
+96,84,85,T05,Salida de Matucana – Cañón de Viso,1,3.5,3.5,BAJA,13.4716796875,204.1039226229786,PROVISIONAL: kilometraje entero; eje CAD por verificar
+97,159,160,T18,Curipata – Aproximación periurbana a Sacco,2,3.5,3.5,BAJA,,140.5582858098857,PROVISIONAL: kilometraje entero; eje CAD por verificar
+98,160,161,T18,Curipata – Aproximación periurbana a Sacco,3,3.5,3.5,BAJA,,99.17944780253288,PROVISIONAL: kilometraje entero; eje CAD por verificar
+99,70,71,T04,Quebradas de acceso – Travesía Matucana,4,3.25,3.25,BAJA,10.9080810546875,92.11207203074981,PROVISIONAL: kilometraje entero; eje CAD por verificar
+100,75,76,T04,Quebradas de acceso – Travesía Matucana,2,3.25,3.25,BAJA,4.8765869140625,123.34882195634711,PROVISIONAL: kilometraje entero; eje CAD por verificar
+101,134,135,T15,Paso de Ticlio – Morococha · subtramo,3,3.25,3.25,BAJA,4.49365234375,46.29813971314802,PROVISIONAL: kilometraje entero; eje CAD por verificar
+102,59,60,T03,Garganta del Rímac – Surco,4,3.0,3.0,BAJA,5.3717041015625,185.95441802684905,PROVISIONAL: kilometraje entero; eje CAD por verificar
+103,145,146,T16,Salida de Morococha – Valle alto de Yauli,2,3.0,3.0,BAJA,1.51416015625,56.78475912530213,PROVISIONAL: kilometraje entero; eje CAD por verificar
+104,146,147,T16,Salida de Morococha – Valle alto de Yauli,1,3.0,3.0,BAJA,3.850830078125,34.469145329499476,PROVISIONAL: kilometraje entero; eje CAD por verificar
+105,171,172,T19,Santa Rosa de Sacco – Nodo urbano La Oroya,3,3.0,3.0,BAJA,,13.17773494712081,PROVISIONAL: kilometraje entero; eje CAD por verificar
+106,143,144,T16,Salida de Morococha – Valle alto de Yauli,2,2.75,2.75,BAJA,5.531005859375,66.1054295136681,PROVISIONAL: kilometraje entero; eje CAD por verificar
+107,144,145,T16,Salida de Morococha – Valle alto de Yauli,2,2.75,2.75,BAJA,2.1220703125,61.960732394224756,PROVISIONAL: kilometraje entero; eje CAD por verificar
+108,157,158,T17,Corredor del río Yauli – Repartición Pachachaca,3,2.75,2.75,BAJA,,48.15581938803898,PROVISIONAL: kilometraje entero; eje CAD por verificar
+109,163,164,T18,Curipata – Aproximación periurbana a Sacco,3,2.75,2.75,BAJA,,50.39497089100577,PROVISIONAL: kilometraje entero; eje CAD por verificar
+110,172,173,T19,Santa Rosa de Sacco – Nodo urbano La Oroya,6,2.75,2.75,BAJA,,29.600761798048904,PROVISIONAL: kilometraje entero; eje CAD por verificar
+111,40,41,T01,Puente Ricardo Palma – Cupiche,0,2.5,2.5,BAJA,2.809906005859375,46.59099650889564,PROVISIONAL: kilometraje entero; eje CAD por verificar
+112,55,56,T02,Corcona – San Bartolomé,2,2.5,2.5,BAJA,4.4588623046875,177.49321093445937,PROVISIONAL: kilometraje entero; eje CAD por verificar
+113,57,58,T02,Corcona – San Bartolomé,1,2.5,2.5,BAJA,7.3662109375,106.2420058783489,PROVISIONAL: kilometraje entero; eje CAD por verificar
+114,118,119,T11,Ascenso a Casapalca · subtramo,1,2.5,2.5,BAJA,6.2841796875,105.03850571541327,PROVISIONAL: kilometraje entero; eje CAD por verificar
+115,169,170,T19,Santa Rosa de Sacco – Nodo urbano La Oroya,2,2.5,2.5,BAJA,,21.13652310719367,PROVISIONAL: kilometraje entero; eje CAD por verificar
+116,56,57,T02,Corcona – San Bartolomé,2,2.25,2.25,BAJA,8.3876953125,110.23665047622875,PROVISIONAL: kilometraje entero; eje CAD por verificar
+117,63,64,T03,Garganta del Rímac – Surco,2,2.25,2.25,BAJA,4.838623046875,132.34558895432033,PROVISIONAL: kilometraje entero; eje CAD por verificar
+118,64,65,T03,Garganta del Rímac – Surco,3,2.25,2.25,BAJA,2.45196533203125,134.21583609373005,PROVISIONAL: kilometraje entero; eje CAD por verificar
+119,74,75,T04,Quebradas de acceso – Travesía Matucana,1,2.25,2.25,BAJA,1.8421630859375,89.41782953765482,PROVISIONAL: kilometraje entero; eje CAD por verificar
+120,151,152,T17,Corredor del río Yauli – Repartición Pachachaca,2,2.25,2.25,BAJA,4.90625,138.65847623961275,PROVISIONAL: kilometraje entero; eje CAD por verificar
+121,165,166,T18,Curipata – Aproximación periurbana a Sacco,0,2.25,2.25,BAJA,,71.44590961609273,PROVISIONAL: kilometraje entero; eje CAD por verificar
+122,167,168,T18,Curipata – Aproximación periurbana a Sacco,3,2.25,2.25,BAJA,,75.87597322296286,PROVISIONAL: kilometraje entero; eje CAD por verificar
+123,77,78,T04,Quebradas de acceso – Travesía Matucana,2,2.0,2.0,BAJA,5.3248291015625,71.86379502128729,PROVISIONAL: kilometraje entero; eje CAD por verificar
+124,155,156,T17,Corredor del río Yauli – Repartición Pachachaca,5,2.0,2.0,BAJA,4.552734375,51.876648659487174,PROVISIONAL: kilometraje entero; eje CAD por verificar
+125,161,162,T18,Curipata – Aproximación periurbana a Sacco,1,2.0,2.0,BAJA,,75.81966051007541,PROVISIONAL: kilometraje entero; eje CAD por verificar
+126,166,167,T18,Curipata – Aproximación periurbana a Sacco,3,2.0,2.0,BAJA,,75.01032268696544,PROVISIONAL: kilometraje entero; eje CAD por verificar
+127,47,48,T01,Puente Ricardo Palma – Cupiche,1,1.75,1.75,BAJA,1.4163818359375,55.565800057498016,PROVISIONAL: kilometraje entero; eje CAD por verificar
+128,58,59,T02,Corcona – San Bartolomé,1,1.75,1.75,BAJA,10.07293701171875,134.31823802621582,PROVISIONAL: kilometraje entero; eje CAD por verificar
+129,68,69,T03,Garganta del Rímac – Surco,4,1.75,1.75,BAJA,5.024658203125,134.244378981491,PROVISIONAL: kilometraje entero; eje CAD por verificar
+130,76,77,T04,Quebradas de acceso – Travesía Matucana,3,1.75,1.75,BAJA,2.576904296875,51.22324807628438,PROVISIONAL: kilometraje entero; eje CAD por verificar
+131,79,80,T05,Salida de Matucana – Cañón de Viso,2,1.5,1.5,BAJA,3.7987060546875,157.46661985326634,PROVISIONAL: kilometraje entero; eje CAD por verificar
+132,80,81,T05,Salida de Matucana – Cañón de Viso,3,1.5,1.5,BAJA,4.888427734375,222.75514785913066,PROVISIONAL: kilometraje entero; eje CAD por verificar
+133,162,163,T18,Curipata – Aproximación periurbana a Sacco,0,1.5,1.5,BAJA,,10.902190658441487,PROVISIONAL: kilometraje entero; eje CAD por verificar
+134,164,165,T18,Curipata – Aproximación periurbana a Sacco,2,1.5,1.5,BAJA,,4.603229505620802,PROVISIONAL: kilometraje entero; eje CAD por verificar

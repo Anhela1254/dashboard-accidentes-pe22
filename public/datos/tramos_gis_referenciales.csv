@@ -1,0 +1,20 @@
+﻿id_tramo,km_ini,km_fin,longitud_nominal_km,sector,accidentes_gis_referenciales,estado_gis
+T01,38.8,48.8,10.0,Puente Ricardo Palma – Cupiche,224,REFERENCIAL_PENDIENTE_CALIBRACION
+T02,48.8,58.8,10.0,Corcona – San Bartolomé,248,REFERENCIAL_PENDIENTE_CALIBRACION
+T03,58.8,68.8,10.0,Garganta del Rímac – Surco,146,REFERENCIAL_PENDIENTE_CALIBRACION
+T04,68.8,78.8,10.0,Quebradas de acceso – Travesía Matucana,148,REFERENCIAL_PENDIENTE_CALIBRACION
+T05,78.8,88.8,10.0,Salida de Matucana – Cañón de Viso,227,REFERENCIAL_PENDIENTE_CALIBRACION
+T06,88.8,93.8,5.0,San Mateo – Cacray – Tamboraque · subtramo,90,REFERENCIAL_PENDIENTE_CALIBRACION
+T07,93.8,98.8,5.0,San Mateo – Cacray – Tamboraque · subtramo,190,REFERENCIAL_PENDIENTE_CALIBRACION
+T08,98.8,103.8,5.0,Infiernillo – Río Blanco – Chicla · subtramo,170,REFERENCIAL_PENDIENTE_CALIBRACION
+T09,103.8,108.8,5.0,Infiernillo – Río Blanco – Chicla · subtramo,164,REFERENCIAL_PENDIENTE_CALIBRACION
+T10,108.8,113.8,5.0,Ascenso a Casapalca · subtramo,186,REFERENCIAL_PENDIENTE_CALIBRACION
+T11,113.8,118.8,5.0,Ascenso a Casapalca · subtramo,100,REFERENCIAL_PENDIENTE_CALIBRACION
+T12,118.8,123.8,5.0,Lazos de Chinchan – Pre abra Anticona · subtramo,127,REFERENCIAL_PENDIENTE_CALIBRACION
+T13,123.8,128.8,5.0,Lazos de Chinchan – Pre abra Anticona · subtramo,217,REFERENCIAL_PENDIENTE_CALIBRACION
+T14,128.8,133.8,5.0,Paso de Ticlio – Morococha · subtramo,245,REFERENCIAL_PENDIENTE_CALIBRACION
+T15,133.8,138.8,5.0,Paso de Ticlio – Morococha · subtramo,185,REFERENCIAL_PENDIENTE_CALIBRACION
+T16,138.8,148.8,10.0,Salida de Morococha – Valle alto de Yauli,191,REFERENCIAL_PENDIENTE_CALIBRACION
+T17,148.8,158.8,10.0,Corredor del río Yauli – Repartición Pachachaca,201,REFERENCIAL_PENDIENTE_CALIBRACION
+T18,158.8,168.8,10.0,Curipata – Aproximación periurbana a Sacco,109,REFERENCIAL_PENDIENTE_CALIBRACION
+T19,168.8,173.0,4.2,Santa Rosa de Sacco – Nodo urbano La Oroya,70,REFERENCIAL_PENDIENTE_CALIBRACION

@@ -1,0 +1,20 @@
+﻿tramo,sector,km_inicio_gis,km_fin_gis,accidentes_hist_2022,accidentes_hist_2023,accidentes_hist_2024,accidentes_hist_2025,prediccion_total_km_incluidos_2026,n_km_predichos,gis_siniestros_referenciales_no_conciliados
+T02,Corcona – San Bartolomé,48.8,58.8,52,74,55,65,61.5,10,248
+T14,Paso de Ticlio – Morococha · subtramo,128.8,133.8,64,56,62,61,60.75,5,245
+T05,Salida de Matucana – Cañón de Viso,78.8,88.8,62,54,59,52,56.75,10,227
+T01,Puente Ricardo Palma – Cupiche,38.8,48.8,63,58,56,45,55.5,10,224
+T13,Lazos de Chinchan – Pre abra Anticona · subtramo,123.8,128.8,46,64,47,60,54.25,5,217
+T17,Corredor del río Yauli – Repartición Pachachaca,148.8,158.8,38,60,54,48,50.0,10,201
+T07,San Mateo – Cacray – Tamboraque · subtramo,93.8,98.8,54,40,45,48,46.75,5,190
+T16,Salida de Morococha – Valle alto de Yauli,138.8,148.8,46,59,49,33,46.75,10,191
+T10,Ascenso a Casapalca · subtramo,108.8,113.8,56,36,41,53,46.5,5,186
+T15,Paso de Ticlio – Morococha · subtramo,133.8,138.8,48,43,41,48,45.0,5,185
+T08,Infiernillo – Río Blanco – Chicla · subtramo,98.8,103.8,52,34,33,51,42.5,5,170
+T09,Infiernillo – Río Blanco – Chicla · subtramo,103.8,108.8,58,43,30,33,41.0,5,164
+T04,Quebradas de acceso – Travesía Matucana,68.8,78.8,36,29,43,40,37.0,10,148
+T03,Garganta del Rímac – Surco,58.8,68.8,36,34,41,35,36.5,10,146
+T12,Lazos de Chinchan – Pre abra Anticona · subtramo,118.8,123.8,26,33,36,32,31.75,5,127
+T11,Ascenso a Casapalca · subtramo,113.8,118.8,24,26,24,26,25.0,5,100
+T18,Curipata – Aproximación periurbana a Sacco,158.8,168.8,19,21,37,23,25.0,10,109
+T06,San Mateo – Cacray – Tamboraque · subtramo,88.8,93.8,24,24,17,25,22.5,5,90
+T19,Santa Rosa de Sacco – Nodo urbano La Oroya,168.8,173.0,10,16,5,19,12.5,4,70

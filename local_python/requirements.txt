@@ -1,0 +1,11 @@
+# Python >=3.10; Tkinter se incluye en Python para Windows.
+joblib>=1.3
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.4
+xgboost>=2.0
+matplotlib>=3.8
+openpyxl>=3.1
+folium>=0.16
+pyproj>=3.6
+pillow>=10
