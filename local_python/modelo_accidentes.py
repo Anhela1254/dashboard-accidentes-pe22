@@ -266,6 +266,30 @@ def estadisticas(y, p):
             'Deviancia_Poisson': round(float(mean_poisson_deviance(y, np.maximum(p,1e-6))),4)}
 
 
+
+def medir_dispersion_prueba(y_real, y_pred):
+    """Calcula r, CV muestral y R² sin optimizar ni alterar resultados."""
+    reales = np.asarray(y_real, dtype=float)
+    previstos = np.asarray(y_pred, dtype=float)
+    validos = np.isfinite(reales) & np.isfinite(previstos)
+    reales, previstos = reales[validos], previstos[validos]
+    n = len(reales)
+    if n < 2:
+        raise ValueError('Se requieren al menos dos observaciones para medir dispersión')
+    media = float(np.mean(reales))
+    sd = float(np.std(reales, ddof=1))
+    r = (float(np.corrcoef(reales, previstos)[0, 1])
+         if sd > 0 and float(np.std(previstos)) > 0 else None)
+    sst = float(np.sum((reales - media)**2))
+    r2 = float(1 - np.sum((reales - previstos)**2) / sst) if sst > 0 else None
+    return {
+        'n_kilometros': n,
+        'correlacion_Pearson_r': round(r, 6) if r is not None else None,
+        'coeficiente_variacion_CV': round(sd / abs(media), 6) if media else None,
+        'coeficiente_determinacion_R2': round(r2, 6) if r2 is not None else None,
+        'intervalo_solicitado': [0.7, 0.9]
+    }
+
 def entrenar_y_predecir(panel, campos):
     por_anio = {a:[r for r in panel if r['ano_prediccion']==a] for a in [2023,2024,2025,2026]}
     x23 = matriz(por_anio[2023], campos); y23=np.array([r['accidentes_observados'] for r in por_anio[2023]])
@@ -490,9 +514,10 @@ def exportar_geojson(pred, cad):
     except ImportError:pass
 
 
-def escribir_reporte(accidentes, descartados, por_ano, mejor, metricas, pred, resumen, avisos, campos):
+def escribir_reporte(accidentes, descartados, por_ano, mejor, metricas, pred, resumen, avisos, campos, real_2025, pred_2025):
     test=next(d for d in metricas if d['Modelo']==mejor and d['Corte'].startswith('Prueba'))
     v=next(d for d in metricas if d['Modelo']==mejor and d['Corte'].startswith('Validacion'))
+    dispersion=medir_dispersion_prueba(real_2025, pred_2025)
     annual=Counter(a['ano'] for a in accidentes)
     total=float(sum(v['prediccion_accidentes_2026'] for v in pred))
     texto=[
@@ -532,6 +557,12 @@ def escribir_reporte(accidentes, descartados, por_ano, mejor, metricas, pred, re
         f'- Validacion 2024: MAE={v["MAE"]:.3f}, RMSE={v["RMSE"]:.3f}.',
         f'- Prueba temporal 2025: MAE={test["MAE"]:.3f}, RMSE={test["RMSE"]:.3f}, '
         f'Deviancia Poisson={test["Deviancia_Poisson"]:.3f}.',
+        f'- Correlacion de Pearson r (2025): {dispersion["correlacion_Pearson_r"]:.3f}.',
+        f'- Ratio de dispersion CV muestral (2025): {dispersion["coeficiente_variacion_CV"]:.3f} '
+        '(desviacion estandar de conteos observados / media).',
+        f'- Coeficiente de determinacion R2 (2025): {dispersion["coeficiente_determinacion_R2"]:.3f}.',
+        '- El rango 0.7-0.9 es el intervalo solicitado para revisar r y CV, no un umbral '
+        'estadistico oficial. Un CV cercano a 0.78 no demuestra baja dispersion.',
         f'- Proyeccion total 2026 en km incluidos: {total:.1f} accidentes/anio (no todo el tramo Lima-La Oroya).',
         '- Prioridad ALTA = top 20% de kilometros por frecuencia predicha; umbral RELATIVO, no norma vial.',
         '',
@@ -571,6 +602,7 @@ def escribir_reporte(accidentes, descartados, por_ano, mejor, metricas, pred, re
        'n_registros_para_modelo':len(accidentes),
        'anios_y_cuentas':dict(annual),
        'errores_prueba_2025':test,
+       'dispersion_prueba_2025':dispersion,
        'suma_predicciones_2026':round(total,2),
        'km_cobertura':'39-172 (intervalos 39-40 a 172-173)',
        'advertencia':'Riesgo relativo exploratorio; CAD/DSM no es geometria certificada; falta TPDA verificado',
@@ -595,7 +627,7 @@ def main():
     resumen=resumen_por_tramos(pred,accidentes,tramos)
     generar_graficos(accidentes,pred,pred_2025,real_2025,columnas,mejor)
     exportar_geojson(pred,cad)
-    escribir_reporte(accidentes, descartados,por_ano,mejor,metricas,pred,resumen,avisos,columnas)
+    escribir_reporte(accidentes, descartados,por_ano,mejor,metricas,pred,resumen,avisos,columnas,real_2025,pred_2025)
     print('Archivos generados en:', SALIDA)
 
 if __name__=='__main__':
